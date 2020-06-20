@@ -559,7 +559,7 @@ F 1 "KEYSW" H 13100 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 13100 1400 60  0001 C CNN
 F 3 "" H 13100 1400 60  0000 C CNN
 	1    13100 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D13
@@ -581,7 +581,7 @@ F 1 "KEYSW" H 13550 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 13550 1400 60  0001 C CNN
 F 3 "" H 13550 1400 60  0000 C CNN
 	1    13550 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D14
@@ -594,9 +594,6 @@ F 3 "https://www.vishay.com/docs/85751/1n4148ws.pdf" H 13700 1700 50  0001 C CNN
 	1    13700 1700
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	13550 1100 13100 1100
-Connection ~ 13100 1100
 $Comp
 L keyboard_parts:KEYSW K15
 U 1 1 5FD4E5DC
@@ -606,7 +603,7 @@ F 1 "KEYSW" H 7700 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.75U" H 7700 2150 60  0001 C CNN
 F 3 "" H 7700 2150 60  0000 C CNN
 	1    7700 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D15
@@ -628,7 +625,7 @@ F 1 "KEYSW" H 8150 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8150 2150 60  0001 C CNN
 F 3 "" H 8150 2150 60  0000 C CNN
 	1    8150 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D16
@@ -650,7 +647,7 @@ F 1 "KEYSW" H 8600 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8600 2150 60  0001 C CNN
 F 3 "" H 8600 2150 60  0000 C CNN
 	1    8600 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D17
@@ -672,7 +669,7 @@ F 1 "KEYSW" H 9050 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9050 2150 60  0001 C CNN
 F 3 "" H 9050 2150 60  0000 C CNN
 	1    9050 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D18
@@ -694,7 +691,7 @@ F 1 "KEYSW" H 9500 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9500 2150 60  0001 C CNN
 F 3 "" H 9500 2150 60  0000 C CNN
 	1    9500 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D19
@@ -716,7 +713,7 @@ F 1 "KEYSW" H 9950 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9950 2150 60  0001 C CNN
 F 3 "" H 9950 2150 60  0000 C CNN
 	1    9950 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D20
@@ -738,7 +735,7 @@ F 1 "KEYSW" H 10400 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10400 2150 60  0001 C CNN
 F 3 "" H 10400 2150 60  0000 C CNN
 	1    10400 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D21
@@ -760,7 +757,7 @@ F 1 "KEYSW" H 10850 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10850 2150 60  0001 C CNN
 F 3 "" H 10850 2150 60  0000 C CNN
 	1    10850 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D22
@@ -782,7 +779,7 @@ F 1 "KEYSW" H 11300 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11300 2150 60  0001 C CNN
 F 3 "" H 11300 2150 60  0000 C CNN
 	1    11300 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D23
@@ -804,7 +801,7 @@ F 1 "KEYSW" H 11750 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11750 2150 60  0001 C CNN
 F 3 "" H 11750 2150 60  0000 C CNN
 	1    11750 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D24
@@ -826,7 +823,7 @@ F 1 "KEYSW" H 12200 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12200 2150 60  0001 C CNN
 F 3 "" H 12200 2150 60  0000 C CNN
 	1    12200 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D25
@@ -848,7 +845,7 @@ F 1 "KEYSW" H 12650 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12650 2150 60  0001 C CNN
 F 3 "" H 12650 2150 60  0000 C CNN
 	1    12650 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D26
@@ -870,7 +867,7 @@ F 1 "KEYSW" H 13100 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 13100 2150 60  0001 C CNN
 F 3 "" H 13100 2150 60  0000 C CNN
 	1    13100 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D27
@@ -892,7 +889,7 @@ F 1 "KEYSW" H 13550 2050 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_2.25U" H 13550 2150 60  0001 C CNN
 F 3 "" H 13550 2150 60  0000 C CNN
 	1    13550 2150
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D28
@@ -905,47 +902,6 @@ F 3 "https://www.vishay.com/docs/85751/1n4148ws.pdf" H 13700 2450 50  0001 C CNN
 	1    13700 2450
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	13550 1850 13100 1850
-Connection ~ 7700 1850
-Wire Wire Line
-	7700 1850 7400 1850
-Connection ~ 8150 1850
-Wire Wire Line
-	8150 1850 7700 1850
-Connection ~ 8600 1850
-Wire Wire Line
-	8600 1850 8150 1850
-Connection ~ 9050 1850
-Wire Wire Line
-	9050 1850 8600 1850
-Connection ~ 9500 1850
-Wire Wire Line
-	9500 1850 9050 1850
-Connection ~ 9950 1850
-Wire Wire Line
-	9950 1850 9500 1850
-Connection ~ 10400 1850
-Wire Wire Line
-	10400 1850 9950 1850
-Connection ~ 10850 1850
-Wire Wire Line
-	10850 1850 10400 1850
-Connection ~ 11300 1850
-Wire Wire Line
-	11300 1850 10850 1850
-Connection ~ 11750 1850
-Wire Wire Line
-	11750 1850 11300 1850
-Connection ~ 12200 1850
-Wire Wire Line
-	12200 1850 11750 1850
-Connection ~ 12650 1850
-Wire Wire Line
-	12650 1850 12200 1850
-Connection ~ 13100 1850
-Wire Wire Line
-	13100 1850 12650 1850
 $Comp
 L keyboard_parts:KEYSW K29
 U 1 1 5FD71848
@@ -955,7 +911,7 @@ F 1 "KEYSW" H 7700 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_2.00U" H 7700 2900 60  0001 C CNN
 F 3 "" H 7700 2900 60  0000 C CNN
 	1    7700 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D29
@@ -977,7 +933,7 @@ F 1 "KEYSW" H 8150 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8150 2900 60  0001 C CNN
 F 3 "" H 8150 2900 60  0000 C CNN
 	1    8150 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D30
@@ -999,7 +955,7 @@ F 1 "KEYSW" H 8600 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8600 2900 60  0001 C CNN
 F 3 "" H 8600 2900 60  0000 C CNN
 	1    8600 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D31
@@ -1021,7 +977,7 @@ F 1 "KEYSW" H 9050 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9050 2900 60  0001 C CNN
 F 3 "" H 9050 2900 60  0000 C CNN
 	1    9050 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D32
@@ -1043,7 +999,7 @@ F 1 "KEYSW" H 9500 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9500 2900 60  0001 C CNN
 F 3 "" H 9500 2900 60  0000 C CNN
 	1    9500 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D33
@@ -1065,7 +1021,7 @@ F 1 "KEYSW" H 9950 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9950 2900 60  0001 C CNN
 F 3 "" H 9950 2900 60  0000 C CNN
 	1    9950 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D34
@@ -1087,7 +1043,7 @@ F 1 "KEYSW" H 10400 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10400 2900 60  0001 C CNN
 F 3 "" H 10400 2900 60  0000 C CNN
 	1    10400 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D35
@@ -1109,7 +1065,7 @@ F 1 "KEYSW" H 10850 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10850 2900 60  0001 C CNN
 F 3 "" H 10850 2900 60  0000 C CNN
 	1    10850 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D36
@@ -1131,7 +1087,7 @@ F 1 "KEYSW" H 11300 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11300 2900 60  0001 C CNN
 F 3 "" H 11300 2900 60  0000 C CNN
 	1    11300 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D37
@@ -1153,7 +1109,7 @@ F 1 "KEYSW" H 11750 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11750 2900 60  0001 C CNN
 F 3 "" H 11750 2900 60  0000 C CNN
 	1    11750 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D38
@@ -1175,7 +1131,7 @@ F 1 "KEYSW" H 12200 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12200 2900 60  0001 C CNN
 F 3 "" H 12200 2900 60  0000 C CNN
 	1    12200 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D39
@@ -1197,7 +1153,7 @@ F 1 "KEYSW" H 12650 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12650 2900 60  0001 C CNN
 F 3 "" H 12650 2900 60  0000 C CNN
 	1    12650 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D40
@@ -1219,7 +1175,7 @@ F 1 "KEYSW" H 13100 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 13100 2900 60  0001 C CNN
 F 3 "" H 13100 2900 60  0000 C CNN
 	1    13100 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D41
@@ -1241,7 +1197,7 @@ F 1 "KEYSW" H 13550 2800 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_2.00U" H 13550 2900 60  0001 C CNN
 F 3 "" H 13550 2900 60  0000 C CNN
 	1    13550 2900
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D42
@@ -1253,58 +1209,6 @@ F 2 "Diodes_SMD:D_SOD-323" H 13700 3025 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85751/1n4148ws.pdf" H 13700 3200 50  0001 C CNN
 	1    13700 3200
 	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	13550 2600 13100 2600
-Connection ~ 7700 2600
-Wire Wire Line
-	7700 2600 7400 2600
-Connection ~ 8150 2600
-Wire Wire Line
-	8150 2600 7700 2600
-Connection ~ 8600 2600
-Wire Wire Line
-	8600 2600 8150 2600
-Connection ~ 9050 2600
-Wire Wire Line
-	9050 2600 8600 2600
-Connection ~ 9500 2600
-Wire Wire Line
-	9500 2600 9050 2600
-Connection ~ 9950 2600
-Wire Wire Line
-	9950 2600 9500 2600
-Connection ~ 10400 2600
-Wire Wire Line
-	10400 2600 9950 2600
-Connection ~ 10850 2600
-Wire Wire Line
-	10850 2600 10400 2600
-Connection ~ 11300 2600
-Wire Wire Line
-	11300 2600 10850 2600
-Connection ~ 11750 2600
-Wire Wire Line
-	11750 2600 11300 2600
-Connection ~ 12200 2600
-Wire Wire Line
-	12200 2600 11750 2600
-Connection ~ 12650 2600
-Wire Wire Line
-	12650 2600 12200 2600
-Connection ~ 13100 2600
-Wire Wire Line
-	13100 2600 12650 2600
-$Comp
-L keyboard_parts:KEYSW K43
-U 1 1 5FD8DAFE
-P 7700 3650
-F 0 "K43" H 7700 3650 60  0000 C CNN
-F 1 "KEYSW" H 7700 3550 60  0001 C CNN
-F 2 "custom:Kailh_socket_MX_1.50U" H 7700 3650 60  0001 C CNN
-F 3 "" H 7700 3650 60  0000 C CNN
-	1    7700 3650
-	0    1    1    0   
 $EndComp
 $Comp
 L Diode:1N4148WS D43
@@ -1326,7 +1230,7 @@ F 1 "KEYSW" H 8150 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8150 3650 60  0001 C CNN
 F 3 "" H 8150 3650 60  0000 C CNN
 	1    8150 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D44
@@ -1348,7 +1252,7 @@ F 1 "KEYSW" H 8600 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8600 3650 60  0001 C CNN
 F 3 "" H 8600 3650 60  0000 C CNN
 	1    8600 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D45
@@ -1370,7 +1274,7 @@ F 1 "KEYSW" H 9050 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9050 3650 60  0001 C CNN
 F 3 "" H 9050 3650 60  0000 C CNN
 	1    9050 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D46
@@ -1392,7 +1296,7 @@ F 1 "KEYSW" H 9500 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9500 3650 60  0001 C CNN
 F 3 "" H 9500 3650 60  0000 C CNN
 	1    9500 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D47
@@ -1414,7 +1318,7 @@ F 1 "KEYSW" H 9950 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9950 3650 60  0001 C CNN
 F 3 "" H 9950 3650 60  0000 C CNN
 	1    9950 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D48
@@ -1436,7 +1340,7 @@ F 1 "KEYSW" H 10400 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10400 3650 60  0001 C CNN
 F 3 "" H 10400 3650 60  0000 C CNN
 	1    10400 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D49
@@ -1458,7 +1362,7 @@ F 1 "KEYSW" H 10850 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10850 3650 60  0001 C CNN
 F 3 "" H 10850 3650 60  0000 C CNN
 	1    10850 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D50
@@ -1480,7 +1384,7 @@ F 1 "KEYSW" H 11300 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11300 3650 60  0001 C CNN
 F 3 "" H 11300 3650 60  0000 C CNN
 	1    11300 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D51
@@ -1502,7 +1406,7 @@ F 1 "KEYSW" H 11750 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11750 3650 60  0001 C CNN
 F 3 "" H 11750 3650 60  0000 C CNN
 	1    11750 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D52
@@ -1524,7 +1428,7 @@ F 1 "KEYSW" H 12200 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12200 3650 60  0001 C CNN
 F 3 "" H 12200 3650 60  0000 C CNN
 	1    12200 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D53
@@ -1546,7 +1450,7 @@ F 1 "KEYSW" H 12650 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12650 3650 60  0001 C CNN
 F 3 "" H 12650 3650 60  0000 C CNN
 	1    12650 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D54
@@ -1568,7 +1472,7 @@ F 1 "KEYSW" H 13100 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_2.00U" H 13100 3650 60  0001 C CNN
 F 3 "" H 13100 3650 60  0000 C CNN
 	1    13100 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D55
@@ -1590,7 +1494,7 @@ F 1 "KEYSW" H 13550 3550 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.50U" H 13550 3650 60  0001 C CNN
 F 3 "" H 13550 3650 60  0000 C CNN
 	1    13550 3650
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D56
@@ -1603,47 +1507,6 @@ F 3 "https://www.vishay.com/docs/85751/1n4148ws.pdf" H 13700 3950 50  0001 C CNN
 	1    13700 3950
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	13550 3350 13100 3350
-Connection ~ 7700 3350
-Wire Wire Line
-	7700 3350 7400 3350
-Connection ~ 8150 3350
-Wire Wire Line
-	8150 3350 7700 3350
-Connection ~ 8600 3350
-Wire Wire Line
-	8600 3350 8150 3350
-Connection ~ 9050 3350
-Wire Wire Line
-	9050 3350 8600 3350
-Connection ~ 9500 3350
-Wire Wire Line
-	9500 3350 9050 3350
-Connection ~ 9950 3350
-Wire Wire Line
-	9950 3350 9500 3350
-Connection ~ 10400 3350
-Wire Wire Line
-	10400 3350 9950 3350
-Connection ~ 10850 3350
-Wire Wire Line
-	10850 3350 10400 3350
-Connection ~ 11300 3350
-Wire Wire Line
-	11300 3350 10850 3350
-Connection ~ 11750 3350
-Wire Wire Line
-	11750 3350 11300 3350
-Connection ~ 12200 3350
-Wire Wire Line
-	12200 3350 11750 3350
-Connection ~ 12650 3350
-Wire Wire Line
-	12650 3350 12200 3350
-Connection ~ 13100 3350
-Wire Wire Line
-	13100 3350 12650 3350
 $Comp
 L keyboard_parts:KEYSW K57
 U 1 1 5FDB7DD8
@@ -1653,7 +1516,7 @@ F 1 "KEYSW" H 7700 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_2.00U" H 7700 4400 60  0001 C CNN
 F 3 "" H 7700 4400 60  0000 C CNN
 	1    7700 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D57
@@ -1675,7 +1538,7 @@ F 1 "KEYSW" H 8150 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.25U" H 8150 4400 60  0001 C CNN
 F 3 "" H 8150 4400 60  0000 C CNN
 	1    8150 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D58
@@ -1697,7 +1560,7 @@ F 1 "KEYSW" H 8600 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8600 4400 60  0001 C CNN
 F 3 "" H 8600 4400 60  0000 C CNN
 	1    8600 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D59
@@ -1719,7 +1582,7 @@ F 1 "KEYSW" H 9050 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_2.25U" H 9050 4400 60  0001 C CNN
 F 3 "" H 9050 4400 60  0000 C CNN
 	1    9050 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D60
@@ -1741,7 +1604,7 @@ F 1 "KEYSW" H 9500 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.25U" H 9500 4400 60  0001 C CNN
 F 3 "" H 9500 4400 60  0000 C CNN
 	1    9500 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D61
@@ -1763,7 +1626,7 @@ F 1 "KEYSW" H 9950 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.25U" H 9950 4400 60  0001 C CNN
 F 3 "" H 9950 4400 60  0000 C CNN
 	1    9950 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D62
@@ -1785,7 +1648,7 @@ F 1 "KEYSW" H 10400 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.25U" H 10400 4400 60  0001 C CNN
 F 3 "" H 10400 4400 60  0000 C CNN
 	1    10400 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D63
@@ -1807,7 +1670,7 @@ F 1 "KEYSW" H 10850 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_2.00U" H 10850 4400 60  0001 C CNN
 F 3 "" H 10850 4400 60  0000 C CNN
 	1    10850 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D64
@@ -1829,7 +1692,7 @@ F 1 "KEYSW" H 11300 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.25U" H 11300 4400 60  0001 C CNN
 F 3 "" H 11300 4400 60  0000 C CNN
 	1    11300 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D65
@@ -1851,7 +1714,7 @@ F 1 "KEYSW" H 13550 4300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.50U" H 13550 4400 60  0001 C CNN
 F 3 "" H 13550 4400 60  0000 C CNN
 	1    13550 4400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Diode:1N4148WS D66
@@ -1864,216 +1727,83 @@ F 3 "https://www.vishay.com/docs/85751/1n4148ws.pdf" H 13700 4700 50  0001 C CNN
 	1    13700 4700
 	1    0    0    -1  
 $EndComp
-Connection ~ 7700 4100
-Wire Wire Line
-	7700 4100 7400 4100
-Connection ~ 8150 4100
-Wire Wire Line
-	8150 4100 7700 4100
-Connection ~ 8600 4100
-Wire Wire Line
-	8600 4100 8150 4100
-Connection ~ 9050 4100
-Wire Wire Line
-	9050 4100 8600 4100
-Connection ~ 9500 4100
-Wire Wire Line
-	9500 4100 9050 4100
-Connection ~ 9950 4100
-Wire Wire Line
-	9950 4100 9500 4100
-Connection ~ 10400 4100
-Wire Wire Line
-	10400 4100 9950 4100
-Connection ~ 10850 4100
-Wire Wire Line
-	10850 4100 10400 4100
-Connection ~ 11300 4100
-Wire Wire Line
-	11300 4100 10850 4100
-Wire Wire Line
-	8000 1700 8000 2450
 Connection ~ 8000 2450
-Wire Wire Line
-	8000 2450 8000 3200
 Connection ~ 8000 3200
-Wire Wire Line
-	8000 3200 8000 3950
 Connection ~ 8000 3950
-Wire Wire Line
-	8000 3950 8000 4700
 Connection ~ 8000 4700
 Wire Wire Line
 	8000 4700 8000 4950
-Wire Wire Line
-	8450 1700 8450 2450
 Connection ~ 8450 2450
-Wire Wire Line
-	8450 2450 8450 3200
 Connection ~ 8450 3200
-Wire Wire Line
-	8450 3200 8450 3950
 Connection ~ 8450 3950
-Wire Wire Line
-	8450 3950 8450 4700
 Connection ~ 8450 4700
 Wire Wire Line
 	8450 4700 8450 4950
-Wire Wire Line
-	8900 1700 8900 2450
 Connection ~ 8900 2450
-Wire Wire Line
-	8900 2450 8900 3200
 Connection ~ 8900 3200
-Wire Wire Line
-	8900 3200 8900 3950
 Connection ~ 8900 3950
-Wire Wire Line
-	8900 3950 8900 4700
 Connection ~ 8900 4700
 Wire Wire Line
 	8900 4700 8900 4950
-Wire Wire Line
-	9350 1700 9350 2450
 Connection ~ 9350 2450
-Wire Wire Line
-	9350 2450 9350 3200
 Connection ~ 9350 3200
-Wire Wire Line
-	9350 3200 9350 3950
 Connection ~ 9350 3950
-Wire Wire Line
-	9350 3950 9350 4700
 Connection ~ 9350 4700
 Wire Wire Line
 	9350 4700 9350 4950
-Wire Wire Line
-	9800 1700 9800 2450
 Connection ~ 9800 2450
-Wire Wire Line
-	9800 2450 9800 3200
 Connection ~ 9800 3200
-Wire Wire Line
-	9800 3200 9800 3950
 Connection ~ 9800 3950
-Wire Wire Line
-	9800 3950 9800 4700
 Connection ~ 9800 4700
 Wire Wire Line
 	9800 4700 9800 4950
-Wire Wire Line
-	11300 4100 13550 4100
-Wire Wire Line
-	10250 1700 10250 2450
 Connection ~ 10250 2450
-Wire Wire Line
-	10250 2450 10250 3200
 Connection ~ 10250 3200
-Wire Wire Line
-	10250 3200 10250 3950
 Connection ~ 10250 3950
-Wire Wire Line
-	10250 3950 10250 4700
 Connection ~ 10250 4700
 Wire Wire Line
 	10250 4700 10250 4950
-Wire Wire Line
-	10700 1700 10700 2450
 Connection ~ 10700 2450
-Wire Wire Line
-	10700 2450 10700 3200
 Connection ~ 10700 3200
-Wire Wire Line
-	10700 3200 10700 3950
 Connection ~ 10700 3950
-Wire Wire Line
-	10700 3950 10700 4700
 Connection ~ 10700 4700
 Wire Wire Line
 	10700 4700 10700 4950
-Wire Wire Line
-	11150 1700 11150 2450
 Connection ~ 11150 2450
-Wire Wire Line
-	11150 2450 11150 3200
 Connection ~ 11150 3200
-Wire Wire Line
-	11150 3200 11150 3950
 Connection ~ 11150 3950
-Wire Wire Line
-	11150 3950 11150 4700
 Connection ~ 11150 4700
 Wire Wire Line
 	11150 4700 11150 4950
-Wire Wire Line
-	11600 1700 11600 2450
 Connection ~ 11600 2450
-Wire Wire Line
-	11600 2450 11600 3200
 Connection ~ 11600 3200
-Wire Wire Line
-	11600 3200 11600 3950
 Connection ~ 11600 3950
-Wire Wire Line
-	11600 3950 11600 4700
 Connection ~ 11600 4700
 Wire Wire Line
 	11600 4700 11600 4950
-Wire Wire Line
-	12050 1700 12050 2450
 Connection ~ 12050 2450
-Wire Wire Line
-	12050 2450 12050 3200
 Connection ~ 12050 3200
-Wire Wire Line
-	12050 3200 12050 3950
 Connection ~ 12050 3950
 Wire Wire Line
 	12050 3950 12050 4950
-Wire Wire Line
-	12500 1700 12500 2450
 Connection ~ 12500 2450
-Wire Wire Line
-	12500 2450 12500 3200
 Connection ~ 12500 3200
-Wire Wire Line
-	12500 3200 12500 3950
 Connection ~ 12500 3950
 Wire Wire Line
 	12500 3950 12500 4950
-Wire Wire Line
-	12950 1700 12950 2450
 Connection ~ 12950 2450
-Wire Wire Line
-	12950 2450 12950 3200
 Connection ~ 12950 3200
-Wire Wire Line
-	12950 3200 12950 3950
 Connection ~ 12950 3950
 Wire Wire Line
 	12950 3950 12950 4950
-Wire Wire Line
-	13400 1700 13400 2450
 Connection ~ 13400 2450
-Wire Wire Line
-	13400 2450 13400 3200
 Connection ~ 13400 3200
-Wire Wire Line
-	13400 3200 13400 3950
 Connection ~ 13400 3950
 Wire Wire Line
 	13400 3950 13400 4950
-Wire Wire Line
-	13850 1700 13850 2450
 Connection ~ 13850 2450
-Wire Wire Line
-	13850 2450 13850 3200
 Connection ~ 13850 3200
-Wire Wire Line
-	13850 3200 13850 3950
 Connection ~ 13850 3950
-Wire Wire Line
-	13850 3950 13850 4700
 Connection ~ 13850 4700
 Wire Wire Line
 	13850 4700 13850 4950
@@ -2352,9 +2082,6 @@ Connection ~ 1850 2350
 Connection ~ 1850 2450
 Wire Wire Line
 	1850 2650 1600 2650
-Wire Wire Line
-	13100 1100 12650 1100
-Connection ~ 12650 1100
 $Comp
 L keyboard_parts:KEYSW K12
 U 1 1 5FCC9FF6
@@ -2364,11 +2091,8 @@ F 1 "KEYSW" H 12650 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12650 1400 60  0001 C CNN
 F 3 "" H 12650 1400 60  0000 C CNN
 	1    12650 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	12650 1100 12200 1100
-Connection ~ 12200 1100
 $Comp
 L keyboard_parts:KEYSW K11
 U 1 1 5FCC9FEA
@@ -2378,11 +2102,8 @@ F 1 "KEYSW" H 12200 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 12200 1400 60  0001 C CNN
 F 3 "" H 12200 1400 60  0000 C CNN
 	1    12200 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	12200 1100 11750 1100
-Connection ~ 11750 1100
 $Comp
 L keyboard_parts:KEYSW K10
 U 1 1 5FCC9FDE
@@ -2392,11 +2113,8 @@ F 1 "KEYSW" H 11750 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11750 1400 60  0001 C CNN
 F 3 "" H 11750 1400 60  0000 C CNN
 	1    11750 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	11750 1100 11300 1100
-Connection ~ 11300 1100
 $Comp
 L keyboard_parts:KEYSW K9
 U 1 1 5FCC9FD2
@@ -2406,11 +2124,8 @@ F 1 "KEYSW" H 11300 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 11300 1400 60  0001 C CNN
 F 3 "" H 11300 1400 60  0000 C CNN
 	1    11300 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	11300 1100 10850 1100
-Connection ~ 10850 1100
 $Comp
 L keyboard_parts:KEYSW K8
 U 1 1 5FCB47BE
@@ -2420,11 +2135,8 @@ F 1 "KEYSW" H 10850 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10850 1400 60  0001 C CNN
 F 3 "" H 10850 1400 60  0000 C CNN
 	1    10850 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	10850 1100 10400 1100
-Connection ~ 10400 1100
 $Comp
 L keyboard_parts:KEYSW K7
 U 1 1 5FCB47B2
@@ -2434,11 +2146,8 @@ F 1 "KEYSW" H 10400 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 10400 1400 60  0001 C CNN
 F 3 "" H 10400 1400 60  0000 C CNN
 	1    10400 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	10400 1100 9950 1100
-Connection ~ 9950 1100
 $Comp
 L keyboard_parts:KEYSW K6
 U 1 1 5FCB47A6
@@ -2448,11 +2157,8 @@ F 1 "KEYSW" H 9950 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9950 1400 60  0001 C CNN
 F 3 "" H 9950 1400 60  0000 C CNN
 	1    9950 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	9950 1100 9500 1100
-Connection ~ 9500 1100
 $Comp
 L keyboard_parts:KEYSW K5
 U 1 1 5FCB479A
@@ -2462,11 +2168,8 @@ F 1 "KEYSW" H 9500 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9500 1400 60  0001 C CNN
 F 3 "" H 9500 1400 60  0000 C CNN
 	1    9500 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	9500 1100 9050 1100
-Connection ~ 9050 1100
 $Comp
 L keyboard_parts:KEYSW K4
 U 1 1 5FC9CEA0
@@ -2476,11 +2179,8 @@ F 1 "KEYSW" H 9050 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 9050 1400 60  0001 C CNN
 F 3 "" H 9050 1400 60  0000 C CNN
 	1    9050 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	9050 1100 8600 1100
-Connection ~ 8600 1100
 $Comp
 L keyboard_parts:KEYSW K3
 U 1 1 5FC8811E
@@ -2490,11 +2190,8 @@ F 1 "KEYSW" H 8600 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8600 1400 60  0001 C CNN
 F 3 "" H 8600 1400 60  0000 C CNN
 	1    8600 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	8600 1100 8150 1100
-Connection ~ 8150 1100
 $Comp
 L keyboard_parts:KEYSW K2
 U 1 1 5FC740E6
@@ -2504,21 +2201,8 @@ F 1 "KEYSW" H 8150 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.00U" H 8150 1400 60  0001 C CNN
 F 3 "" H 8150 1400 60  0000 C CNN
 	1    8150 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
-Connection ~ 7700 1100
-Wire Wire Line
-	7700 1100 7400 1100
-Wire Wire Line
-	8150 1100 7700 1100
-Wire Bus Line
-	7300 5050 13750 5050
-Wire Bus Line
-	7300 3250 7300 5050
-Wire Bus Line
-	7300 1200 7300 3250
-Wire Bus Line
-	6800 1450 6800 3250
 $Comp
 L keyboard_parts:KEYSW K1
 U 1 1 5FC48A31
@@ -2528,6 +2212,322 @@ F 1 "KEYSW" H 7700 1300 60  0001 C CNN
 F 2 "custom:Kailh_socket_MX_1.50U" H 7700 1400 60  0001 C CNN
 F 3 "" H 7700 1400 60  0000 C CNN
 	1    7700 1400
-	0    1    1    0   
+	0    -1   -1   0   
 $EndComp
+Wire Wire Line
+	7400 1100 7700 1100
+Connection ~ 7700 1100
+Wire Wire Line
+	7700 1100 8150 1100
+Connection ~ 8150 1100
+Wire Wire Line
+	8150 1100 8600 1100
+Connection ~ 8600 1100
+Wire Wire Line
+	8600 1100 9050 1100
+Connection ~ 9050 1100
+Wire Wire Line
+	9050 1100 9500 1100
+Connection ~ 9500 1100
+Wire Wire Line
+	9500 1100 9950 1100
+Connection ~ 9950 1100
+Wire Wire Line
+	9950 1100 10400 1100
+Connection ~ 10400 1100
+Wire Wire Line
+	10400 1100 10850 1100
+Connection ~ 10850 1100
+Wire Wire Line
+	10850 1100 11300 1100
+Connection ~ 11300 1100
+Wire Wire Line
+	11300 1100 11750 1100
+Connection ~ 11750 1100
+Wire Wire Line
+	11750 1100 12200 1100
+Connection ~ 12200 1100
+Wire Wire Line
+	12200 1100 12650 1100
+Connection ~ 12650 1100
+Wire Wire Line
+	12650 1100 13100 1100
+Connection ~ 13100 1100
+Wire Wire Line
+	13100 1100 13550 1100
+Wire Wire Line
+	13850 1700 13850 2450
+Connection ~ 13100 1850
+Wire Wire Line
+	13100 1850 13550 1850
+Wire Wire Line
+	13400 1700 13400 2450
+Connection ~ 12650 1850
+Wire Wire Line
+	12650 1850 13100 1850
+Wire Wire Line
+	12950 1700 12950 2450
+Connection ~ 12200 1850
+Wire Wire Line
+	12200 1850 12650 1850
+Wire Wire Line
+	12500 1700 12500 2450
+Connection ~ 11750 1850
+Wire Wire Line
+	11750 1850 12200 1850
+Wire Wire Line
+	12050 1700 12050 2450
+Connection ~ 11300 1850
+Wire Wire Line
+	11300 1850 11750 1850
+Wire Wire Line
+	11600 1700 11600 2450
+Connection ~ 10850 1850
+Wire Wire Line
+	10850 1850 11300 1850
+Wire Wire Line
+	11150 1700 11150 2450
+Connection ~ 10400 1850
+Wire Wire Line
+	10400 1850 10850 1850
+Wire Wire Line
+	10700 1700 10700 2450
+Connection ~ 9950 1850
+Wire Wire Line
+	9950 1850 10400 1850
+Wire Wire Line
+	10250 1700 10250 2450
+Connection ~ 9500 1850
+Wire Wire Line
+	9500 1850 9950 1850
+Wire Wire Line
+	9800 1700 9800 2450
+Connection ~ 9050 1850
+Wire Wire Line
+	9050 1850 9500 1850
+Wire Wire Line
+	9350 1700 9350 2450
+Connection ~ 8600 1850
+Wire Wire Line
+	8600 1850 9050 1850
+Wire Wire Line
+	8900 1700 8900 2450
+Wire Wire Line
+	7400 2600 7700 2600
+Connection ~ 7700 2600
+Wire Wire Line
+	8000 2450 8000 3200
+Wire Wire Line
+	7700 2600 8150 2600
+Connection ~ 8150 2600
+Wire Wire Line
+	8450 2450 8450 3200
+Wire Wire Line
+	8150 2600 8600 2600
+Connection ~ 8600 2600
+Wire Wire Line
+	8900 2450 8900 3200
+Wire Wire Line
+	8600 2600 9050 2600
+Connection ~ 9050 2600
+Wire Wire Line
+	9350 2450 9350 3200
+Wire Wire Line
+	9050 2600 9500 2600
+Connection ~ 9500 2600
+Wire Wire Line
+	9800 2450 9800 3200
+Wire Wire Line
+	9500 2600 9950 2600
+Connection ~ 9950 2600
+Wire Wire Line
+	10250 2450 10250 3200
+Wire Wire Line
+	9950 2600 10400 2600
+Connection ~ 10400 2600
+Wire Wire Line
+	10700 2450 10700 3200
+Wire Wire Line
+	10400 2600 10850 2600
+Connection ~ 10850 2600
+Wire Wire Line
+	11150 2450 11150 3200
+Wire Wire Line
+	10850 2600 11300 2600
+Connection ~ 11300 2600
+Wire Wire Line
+	11600 2450 11600 3200
+Wire Wire Line
+	11300 2600 11750 2600
+Connection ~ 11750 2600
+Wire Wire Line
+	12050 2450 12050 3200
+Wire Wire Line
+	11750 2600 12200 2600
+Connection ~ 12200 2600
+Wire Wire Line
+	12500 2450 12500 3200
+Wire Wire Line
+	12200 2600 12650 2600
+Connection ~ 12650 2600
+Wire Wire Line
+	12950 2450 12950 3200
+Wire Wire Line
+	12650 2600 13100 2600
+Connection ~ 13100 2600
+Wire Wire Line
+	13100 2600 13550 2600
+Wire Wire Line
+	13400 2450 13400 3200
+Wire Wire Line
+	13850 2450 13850 3200
+Wire Wire Line
+	7400 3350 7700 3350
+$Comp
+L keyboard_parts:KEYSW K43
+U 1 1 5FD8DAFE
+P 7700 3650
+F 0 "K43" H 7700 3650 60  0000 C CNN
+F 1 "KEYSW" H 7700 3550 60  0001 C CNN
+F 2 "custom:Kailh_socket_MX_1.50U" H 7700 3650 60  0001 C CNN
+F 3 "" H 7700 3650 60  0000 C CNN
+	1    7700 3650
+	0    -1   -1   0   
+$EndComp
+Connection ~ 7700 3350
+Wire Wire Line
+	8000 3200 8000 3950
+Wire Wire Line
+	7700 3350 8150 3350
+Connection ~ 8150 3350
+Wire Wire Line
+	8450 3200 8450 3950
+Wire Wire Line
+	8150 3350 8600 3350
+Connection ~ 8600 3350
+Wire Wire Line
+	8900 3200 8900 3950
+Wire Wire Line
+	8600 3350 9050 3350
+Connection ~ 9050 3350
+Wire Wire Line
+	9350 3200 9350 3950
+Wire Wire Line
+	9050 3350 9500 3350
+Connection ~ 9500 3350
+Wire Wire Line
+	9800 3200 9800 3950
+Wire Wire Line
+	9500 3350 9950 3350
+Connection ~ 9950 3350
+Wire Wire Line
+	10250 3200 10250 3950
+Wire Wire Line
+	9950 3350 10400 3350
+Connection ~ 10400 3350
+Wire Wire Line
+	10700 3200 10700 3950
+Wire Wire Line
+	10400 3350 10850 3350
+Connection ~ 10850 3350
+Wire Wire Line
+	11150 3200 11150 3950
+Wire Wire Line
+	10850 3350 11300 3350
+Connection ~ 11300 3350
+Wire Wire Line
+	11600 3200 11600 3950
+Wire Wire Line
+	11300 3350 11750 3350
+Connection ~ 11750 3350
+Wire Wire Line
+	12050 3200 12050 3950
+Wire Wire Line
+	11750 3350 12200 3350
+Connection ~ 12200 3350
+Wire Wire Line
+	12500 3200 12500 3950
+Wire Wire Line
+	12200 3350 12650 3350
+Connection ~ 12650 3350
+Wire Wire Line
+	12950 3200 12950 3950
+Wire Wire Line
+	12650 3350 13100 3350
+Connection ~ 13100 3350
+Wire Wire Line
+	13100 3350 13550 3350
+Wire Wire Line
+	13400 3200 13400 3950
+Wire Wire Line
+	13850 3200 13850 3950
+Wire Wire Line
+	13850 3950 13850 4700
+Connection ~ 11300 4100
+Wire Wire Line
+	11300 4100 13550 4100
+Wire Wire Line
+	11600 3950 11600 4700
+Connection ~ 10850 4100
+Wire Wire Line
+	10850 4100 11300 4100
+Wire Wire Line
+	11150 3950 11150 4700
+Connection ~ 10400 4100
+Wire Wire Line
+	10400 4100 10850 4100
+Wire Wire Line
+	10700 3950 10700 4700
+Connection ~ 9950 4100
+Wire Wire Line
+	9950 4100 10400 4100
+Wire Wire Line
+	10250 3950 10250 4700
+Connection ~ 9500 4100
+Wire Wire Line
+	9500 4100 9950 4100
+Wire Wire Line
+	9800 3950 9800 4700
+Connection ~ 9050 4100
+Wire Wire Line
+	9050 4100 9500 4100
+Wire Wire Line
+	9350 3950 9350 4700
+Connection ~ 8600 4100
+Wire Wire Line
+	8600 4100 9050 4100
+Wire Wire Line
+	8900 3950 8900 4700
+Connection ~ 8150 4100
+Wire Wire Line
+	8150 4100 8600 4100
+Wire Wire Line
+	8450 3950 8450 4700
+Wire Wire Line
+	7400 4100 7700 4100
+Connection ~ 7700 4100
+Wire Wire Line
+	7700 4100 8150 4100
+Wire Wire Line
+	8000 3950 8000 4700
+Wire Wire Line
+	7400 1850 7700 1850
+Connection ~ 7700 1850
+Wire Wire Line
+	8000 1700 8000 2450
+Wire Wire Line
+	7700 1850 8150 1850
+Connection ~ 8150 1850
+Wire Wire Line
+	8150 1850 8600 1850
+Wire Wire Line
+	8450 1700 8450 2450
+Wire Bus Line
+	7300 1200 7300 3250
+Wire Bus Line
+	7300 3250 7300 5050
+Wire Bus Line
+	7300 5050 13750 5050
+Wire Bus Line
+	6800 1450 6800 3250
 $EndSCHEMATC
