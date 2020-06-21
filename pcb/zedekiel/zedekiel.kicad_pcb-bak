@@ -11,8 +11,8 @@
 
   (page User 355.016 180.01)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user hide)
     (33 F.Adhes user hide)
     (34 B.Paste user)
@@ -21,7 +21,7 @@
     (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
-    (40 Dwgs.User user hide)
+    (40 Dwgs.User user)
     (41 Cmts.User user)
     (42 Eco1.User user)
     (43 Eco2.User user hide)
@@ -62,7 +62,7 @@
     (pad_to_mask_clearance 0.05)
     (aux_axis_origin 0 0)
     (grid_origin 20.4 20.4)
-    (visible_elements FFFFFF7F)
+    (visible_elements FFFFF77F)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
       (usegerberextensions false)
@@ -748,7 +748,7 @@
     (pad "" np_thru_hole circle (at 11.9 8.255 180) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module custom:Stabilizer_MX_2u (layer F.Cu) (tedit 5EEE7EEA) (tstamp 5EF2094D)
+  (module custom:Stabilizer_MX_2u (layer F.Cu) (tedit 5EEE7EEA) (tstamp 5EEF8E62)
     (at 63.15 105.9 180)
     (descr "MX-style stabilizer mount")
     (tags MX,cherry,gateron,kailh,pg1511,stabilizer,stab)
@@ -1702,7 +1702,7 @@
   )
 
   (module custom:Kailh_socket_MX_2.00U (layer F.Cu) (tedit 5EEE02FD) (tstamp 5EEF4769)
-    (at 64.15 105.5)
+    (at 63.15 105.9)
     (descr "MX-style keyswitch with Kailh socket mount")
     (tags MX,cherry,gateron,kailh,pg1511,socket)
     (path /5FDB7DD8)
@@ -8067,7 +8067,6 @@
   (via (at 47.4 88.8) (size 5) (drill 4.6) (layers F.Cu B.Cu) (net 0) (tstamp 5EF20A9A))
   (via (at 166.4 105.9) (size 5) (drill 4.6) (layers F.Cu B.Cu) (net 0) (tstamp 5EF20A9A))
   (via (at 297 95) (size 5) (drill 4.6) (layers F.Cu B.Cu) (net 0) (tstamp 5EF20A9A))
-  (via (at 22.9 94.1) (size 0.61) (drill 0.305) (layers F.Cu B.Cu) (net 91))
   (segment (start 22.8 106.671) (end 25.071 104.4) (width 0.254) (layer B.Cu) (net 1))
   (segment (start 22.8 107.3) (end 22.8 106.671) (width 0.254) (layer B.Cu) (net 1))
   (segment (start 25.071 104.4) (end 31.8 104.4) (width 0.254) (layer B.Cu) (net 1))
@@ -8734,6 +8733,7 @@
   (segment (start 282.557001 112.807001) (end 281.65 111.9) (width 0.254) (layer F.Cu) (net 90))
   (segment (start 296.992999 112.807001) (end 282.557001 112.807001) (width 0.254) (layer F.Cu) (net 90))
   (segment (start 303.65 106.15) (end 296.992999 112.807001) (width 0.254) (layer F.Cu) (net 90))
+  (via (at 22.9 94.1) (size 0.61) (drill 0.305) (layers F.Cu B.Cu) (net 91))
   (segment (start 22.9 94.1) (end 22.9 97.15) (width 0.254) (layer B.Cu) (net 91))
   (segment (start 37.761018 112.9) (end 39.402082 111.258936) (width 0.254) (layer B.Cu) (net 94))
   (segment (start 30.65 112.9) (end 37.761018 112.9) (width 0.254) (layer B.Cu) (net 94))
