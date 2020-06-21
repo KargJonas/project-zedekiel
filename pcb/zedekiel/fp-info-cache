@@ -1,4 +1,4 @@
-1152670468339084
+1154263211752084
 Alps_Only
 ALPS-1.5U
 
@@ -4236,6 +4236,13 @@ hole-indicator
 0
 custom
 pad-button
+
+
+0
+2
+2
+custom
+usb-pads
 
 
 0
