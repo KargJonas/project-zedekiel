@@ -1,4 +1,4 @@
-update=Sun 21 Jun 2020 11:45:55 AM CEST
+update=Wed 24 Jun 2020 04:24:03 PM CEST
 version=1
 last_client=kicad
 [general]
@@ -241,7 +241,7 @@ dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=EasyEDA
-Clearance=0.2
+Clearance=0.3
 TrackWidth=0.254
 ViaDiameter=0.61
 ViaDrill=0.305
