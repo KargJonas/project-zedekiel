@@ -150,29 +150,29 @@ $EndComp
 $Comp
 L Device:R R4
 U 1 1 5EF0231F
-P 4100 2100
-F 0 "R4" V 4000 2050 50  0000 C CNN
-F 1 "22" V 4100 2100 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603" V 4030 2100 50  0001 C CNN
-F 3 "~" H 4100 2100 50  0001 C CNN
-	1    4100 2100
+P 3750 2100
+F 0 "R4" V 3650 2050 50  0000 C CNN
+F 1 "22" V 3750 2100 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 3680 2100 50  0001 C CNN
+F 3 "~" H 3750 2100 50  0001 C CNN
+	1    3750 2100
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R R5
 U 1 1 5EF02C63
-P 4100 2200
-F 0 "R5" V 4200 2150 50  0000 C CNN
-F 1 "22" V 4100 2200 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603" V 4030 2200 50  0001 C CNN
-F 3 "~" H 4100 2200 50  0001 C CNN
-	1    4100 2200
+P 3750 2200
+F 0 "R5" V 3850 2150 50  0000 C CNN
+F 1 "22" V 3750 2200 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" V 3680 2200 50  0001 C CNN
+F 3 "~" H 3750 2200 50  0001 C CNN
+	1    3750 2200
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4550 2100 4250 2100
+	4550 2100 3900 2100
 Wire Wire Line
-	4550 2200 4250 2200
+	4550 2200 3900 2200
 $Comp
 L atmega16u4-au_modified:ATmega16U4-AU_(modified) U1
 U 1 1 5EE0FFDB
@@ -2509,49 +2509,12 @@ Wire Wire Line
 Connection ~ 1350 2850
 Wire Wire Line
 	1350 2850 1350 3150
-$Comp
-L Connector:TestPoint TP2
-U 1 1 5F0D5D9F
-P 3450 2000
-F 0 "TP2" V 3450 2200 50  0000 L CNN
-F 1 "TestPoint" V 3400 1800 50  0000 L CNN
-F 2 "custom:single-pad" H 3650 2000 50  0001 C CNN
-F 3 "~" H 3650 2000 50  0001 C CNN
-	1    3450 2000
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:TestPoint TP3
-U 1 1 5F0E41D9
-P 3450 2300
-F 0 "TP3" V 3450 2600 50  0000 R CNN
-F 1 "TestPoint" V 3500 2400 50  0000 R CNN
-F 2 "custom:single-pad" H 3650 2300 50  0001 C CNN
-F 3 "~" H 3650 2300 50  0001 C CNN
-	1    3450 2300
-	0    1    1    0   
-$EndComp
-Connection ~ 3450 2000
 Wire Wire Line
-	3450 2100 3950 2100
+	3450 2100 3600 2100
 Wire Wire Line
-	3450 2200 3950 2200
-Connection ~ 3450 2300
+	3450 2200 3600 2200
 Wire Wire Line
 	3250 2300 3450 2300
-$Comp
-L Connector:TestPoint TP1
-U 1 1 5F0FDFC9
-P 3450 1650
-F 0 "TP1" V 3404 1838 50  0000 L CNN
-F 1 "TestPoint" V 3495 1838 50  0000 L CNN
-F 2 "custom:single-pad" H 3650 1650 50  0001 C CNN
-F 3 "~" H 3650 1650 50  0001 C CNN
-	1    3450 1650
-	0    1    1    0   
-$EndComp
-Connection ~ 3450 1650
-Connection ~ 1950 2350
 Wire Wire Line
 	3300 2700 2850 2700
 $Comp
@@ -2571,84 +2534,6 @@ Wire Wire Line
 	3850 2700 3850 2450
 Wire Wire Line
 	3850 2450 4550 2450
-Text GLabel 5450 4500 0    50   BiDi ~ 0
-SDA
-Text GLabel 5450 4600 0    50   BiDi ~ 0
-SCL
-Text GLabel 5450 4750 0    50   BiDi ~ 0
-ADC11
-Text GLabel 5450 4850 0    50   BiDi ~ 0
-MISO
-Text GLabel 5450 4950 0    50   BiDi ~ 0
-MOSI
-Text GLabel 5450 5050 0    50   BiDi ~ 0
-SCLK
-$Comp
-L Connector:TestPoint TP5
-U 1 1 5F2116B9
-P 5450 4500
-F 0 "TP5" V 5450 5100 50  0000 L CNN
-F 1 "TestPoint" V 5450 4700 50  0000 L CNN
-F 2 "custom:single-pad" H 5650 4500 50  0001 C CNN
-F 3 "~" H 5650 4500 50  0001 C CNN
-	1    5450 4500
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:TestPoint TP6
-U 1 1 5F212DC2
-P 5450 4600
-F 0 "TP6" V 5450 5200 50  0000 L CNN
-F 1 "TestPoint" V 5450 4800 50  0000 L CNN
-F 2 "custom:single-pad" H 5650 4600 50  0001 C CNN
-F 3 "~" H 5650 4600 50  0001 C CNN
-	1    5450 4600
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:TestPoint TP10
-U 1 1 5F248B64
-P 5450 5050
-F 0 "TP10" V 5450 5650 50  0000 L CNN
-F 1 "TestPoint" V 5450 5250 50  0000 L CNN
-F 2 "custom:single-pad" H 5650 5050 50  0001 C CNN
-F 3 "~" H 5650 5050 50  0001 C CNN
-	1    5450 5050
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:TestPoint TP9
-U 1 1 5F23B9EB
-P 5450 4950
-F 0 "TP9" V 5450 5550 50  0000 L CNN
-F 1 "TestPoint" V 5450 5150 50  0000 L CNN
-F 2 "custom:single-pad" H 5650 4950 50  0001 C CNN
-F 3 "~" H 5650 4950 50  0001 C CNN
-	1    5450 4950
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:TestPoint TP8
-U 1 1 5F22D0CC
-P 5450 4850
-F 0 "TP8" V 5450 5450 50  0000 L CNN
-F 1 "TestPoint" V 5450 5050 50  0000 L CNN
-F 2 "custom:single-pad" H 5650 4850 50  0001 C CNN
-F 3 "~" H 5650 4850 50  0001 C CNN
-	1    5450 4850
-	0    1    1    0   
-$EndComp
-$Comp
-L Connector:TestPoint TP7
-U 1 1 5F21FF89
-P 5450 4750
-F 0 "TP7" V 5450 5350 50  0000 L CNN
-F 1 "TestPoint" V 5450 4950 50  0000 L CNN
-F 2 "custom:single-pad" H 5650 4750 50  0001 C CNN
-F 3 "~" H 5650 4750 50  0001 C CNN
-	1    5450 4750
-	0    1    1    0   
-$EndComp
 Wire Bus Line
 	7300 1200 7300 3250
 Wire Bus Line
@@ -2657,26 +2542,8 @@ Wire Bus Line
 	7300 5050 13750 5050
 Wire Bus Line
 	6800 1450 6800 3250
-$Comp
-L Connector:TestPoint TP?
-U 1 1 5F29606B
-P 1950 2200
-F 0 "TP?" V 2050 2300 50  0000 L CNN
-F 1 "TestPoint" V 1950 2350 50  0000 L CNN
-F 2 "" H 2150 2200 50  0001 C CNN
-F 3 "~" H 2150 2200 50  0001 C CNN
-	1    1950 2200
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Connector:TestPoint TP4
-U 1 1 5F100506
-P 1950 2350
-F 0 "TP4" V 1850 2500 50  0000 C CNN
-F 1 "TestPoint" V 1950 2700 50  0000 C CNN
-F 2 "custom:single-pad" H 2150 2350 50  0001 C CNN
-F 3 "~" H 2150 2350 50  0001 C CNN
-	1    1950 2350
-	0    -1   -1   0   
-$EndComp
+Text Label 4050 2100 0    50   ~ 0
+D+
+Text Label 4050 2200 0    50   ~ 0
+D-
 $EndSCHEMATC
