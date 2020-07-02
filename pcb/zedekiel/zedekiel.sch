@@ -2534,6 +2534,10 @@ Wire Wire Line
 	3850 2700 3850 2450
 Wire Wire Line
 	3850 2450 4550 2450
+Text Label 4050 2100 0    50   ~ 0
+D+
+Text Label 4050 2200 0    50   ~ 0
+D-
 Wire Bus Line
 	7300 1200 7300 3250
 Wire Bus Line
@@ -2542,8 +2546,4 @@ Wire Bus Line
 	7300 5050 13750 5050
 Wire Bus Line
 	6800 1450 6800 3250
-Text Label 4050 2100 0    50   ~ 0
-D+
-Text Label 4050 2200 0    50   ~ 0
-D-
 $EndSCHEMATC
