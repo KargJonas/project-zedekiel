@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name zedekiel-rescue)(type Legacy)(uri ${KIPRJMOD}/zedekiel-rescue.lib)(options "")(descr ""))
+  (lib (name hro-type-c_modified)(type Legacy)(uri ${KIPRJMOD}/library/custom/hro-type-c_modified.lib)(options "")(descr ""))
+  (lib (name atmega16u4-au_modified)(type Legacy)(uri ${KIPRJMOD}/library/custom/atmega16u4-au_modified.lib)(options "")(descr ""))
+  (lib (name usb_c_receptacle_usb2.0_modified)(type Legacy)(uri ${KIPRJMOD}/library/custom/usb_c_receptacle_usb2.0_modified.lib)(options "")(descr ""))
+  (lib (name usb_c_receptacle_modified)(type Legacy)(uri ${KIPRJMOD}/library/custom/usb_c_receptacle_modified.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "${KIPRJMOD}/library/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/library/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/library/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+)

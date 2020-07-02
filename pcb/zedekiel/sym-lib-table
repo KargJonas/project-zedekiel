@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name zedekiel-rescue)(type Legacy)(uri ${KIPRJMOD}/zedekiel-rescue.lib)(options "")(descr ""))
-)
