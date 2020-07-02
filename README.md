@@ -30,4 +30,5 @@ A pain-free 66% keyboard.
 ![Render](renders/pcb-v0.2-9.png)
 ![Render](renders/pcb-v0.2-13.png)
 ![Render](renders/pcb-v0.2-6.png)
+![Render](renders/pcb-v0.2-2.png)
 ![Render](renders/open.jpg)

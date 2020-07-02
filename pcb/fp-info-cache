@@ -1,4 +1,4 @@
-1208433811533978
+1217996215897978
 Alps_Only
 ALPS-1.5U
 
@@ -4432,6 +4432,48 @@ MX,cherry,gateron,kailh,pg1511,socket
 2
 custom
 Kailh_socket_MX_2.25U
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+Kailh_socket_MX_with_switch_1.00U
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+Kailh_socket_MX_with_switch_1.25U
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+Kailh_socket_MX_with_switch_1.50U
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+Kailh_socket_MX_with_switch_1.75U
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+Kailh_socket_MX_with_switch_2.00U
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+custom
+Kailh_socket_MX_with_switch_2.25U
 MX-style keyswitch with Kailh socket mount
 MX,cherry,gateron,kailh,pg1511,socket
 0
