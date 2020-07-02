@@ -1,6 +1,8 @@
 # project-zedekiel
 A pain-free 66% keyboard.
 
+![Render](renders/pcb-v0.2-14.png)
+
 ## Tools used to make this
 - KiCad
 - LibreOffice
@@ -23,3 +25,9 @@ A pain-free 66% keyboard.
 - [QMK ISP Flashing Guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/isp_flashing_guide)
 - [DFU Explained](https://electronics.stackexchange.com/questions/299712/how-is-the-atmega32u4-chip-recognized-via-usb)
 - (More in `/misc/resources` folder)
+
+# More Pictures
+![Render](renders/pcb-v0.2-9.png)
+![Render](renders/pcb-v0.2-13.png)
+![Render](renders/pcb-v0.2-6.png)
+![Render](renders/open.jpg)

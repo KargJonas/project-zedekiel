@@ -1,4 +1,4 @@
-(module Kailh_socket_MX_1.00U (layer F.Cu) (tedit 5EFDFC3A)
+(module Kailh_socket_MX_1.00U (layer F.Cu) (tedit 5EFE6392)
   (descr "MX-style keyswitch with Kailh socket mount")
   (tags MX,cherry,gateron,kailh,pg1511,socket)
   (attr smd)
@@ -54,10 +54,5 @@
     (offset (xyz 0.6 -4.75 -3.45))
     (scale (xyz 0.98 0.98 0.98))
     (rotate (xyz 0 0 0))
-  )
-  (model ${KIPRJMOD}/library/component-models/mx.step
-    (offset (xyz -0.3 -0.3 5.5))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 180 0 -90))
   )
 )
