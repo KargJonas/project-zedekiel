@@ -3,8 +3,6 @@ A pain-free 66% keyboard.
 
 ![Render](renders/pcb-v0.2-14.png)
 
-
-
 ## Tools used to make this
 - KiCad
 - LibreOffice

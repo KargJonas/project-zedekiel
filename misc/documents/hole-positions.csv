@@ -1,12 +1,4 @@
-Hole Positions X kicad	Hole Positions Y kicad	Hole Positions Absolute X	Hole Positions Absolute Y	Hole Positions X,Y librecad	Hole Positions Case X	Hole Positions Case Y	Foot Positions Case X	Foot Positions Case Y
-46	39.4	25.6	19	25.6,76	30.6	24	20	17
-162.9	38.8	142.5	18.4	142.5,76.6	147.5	23.4	294	17
-298.9	35.4	278.5	15	278.5,80	283.5	20		
-115.4	65.5	95	45.1	95,49.9	100	50.1		
-248.4	65.5	228	45.1	228,49.9	233	50.1		
-47.4	88.8	27	68.4	27,26.6	32	73.4		
-166.4	105.9	146	85.5	146,9.5	151	90.5		
-297	95	276.6	74.6	276.6,20.4	281.6	79.6		
-								
-Mounting Hole Outer Diameter	Mouting Hole Inner Diameter	Foot Hole Diameter						
-5	2.4	2.5						
+	Case Size	Wall Strangth	Clearance	Top Left Offset	Total Outer Dimensions
+X	314	2	0.5	2.5	309
+Y	105	2	0.5	2.5	100
+Z	2				2
