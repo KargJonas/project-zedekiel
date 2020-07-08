@@ -1,37 +1,24 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>KiCad BOM Example 5</title>
-    </head>
-    <body>
-    <h1>/home/jonas/code/project-zedekiel/pcb/zedekiel/zedekiel.sch</h1>
-    <p>Sun 21 Jun 2020 04:24:47 PM CEST</p>
-    <p>Eeschema 5.1.6</p>
-    <p><b>Component Count:</b>160</p>
-    <table>
-    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
-    <tr><td>C1</td><td>1</td><td>1uF</td><td>Device:C</td><td>Capacitors_SMD:C_0603</td><td>Unpolarized capacitor</td><td></td></tr>
-    <tr><td>C2, C3</td><td>2</td><td>22pF</td><td>Device:C</td><td>Capacitors_SMD:C_0603</td><td>Unpolarized capacitor</td><td></td></tr>
-    <tr><td>C4, C5, C6, C7</td><td>4</td><td>100nF</td><td>Device:C</td><td>Capacitors_SMD:C_0603</td><td>Unpolarized capacitor</td><td></td></tr>
-    <tr><td>C8</td><td>1</td><td>4.7uF</td><td>Device:C</td><td>Capacitors_SMD:C_0603</td><td>Unpolarized capacitor</td><td></td></tr>
-    <tr><td>D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66</td><td>66</td><td>1N4148WS</td><td>Diode:1N4148WS</td><td>Diodes_SMD:D_SOD-323</td><td>75V 0.15A Fast switching Diode, SOD-323</td><td></td></tr>
-    <tr><td>K1, K43, K56, K66</td><td>4</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>custom:Kailh_socket_MX_1.50U</td><td></td><td></td></tr>
-    <tr><td>K2, K3, K4, K5, K6, K7, K8, K9, K10, K11, K12, K13, K14, K16, K17, K18, K19, K20, K21, K22, K23, K24, K25, K26, K27, K30, K31, K32, K33, K34, K35, K36, K37, K38, K39, K40, K41, K44, K45, K46, K47, K48, K49, K50, K51, K52, K53, K54, K59</td><td>49</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>custom:Kailh_socket_MX_1.00U</td><td></td><td></td></tr>
-    <tr><td>K15</td><td>1</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>custom:Kailh_socket_MX_1.75U</td><td></td><td></td></tr>
-    <tr><td>K28, K60</td><td>2</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>custom:Kailh_socket_MX_2.25U</td><td></td><td></td></tr>
-    <tr><td>K29, K42, K55, K57, K64</td><td>5</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>custom:Kailh_socket_MX_2.00U</td><td></td><td></td></tr>
-    <tr><td>K58, K61, K62, K63, K65</td><td>5</td><td>KEYSW</td><td>keyboard_parts:KEYSW</td><td>custom:Kailh_socket_MX_1.25U</td><td></td><td></td></tr>
-    <tr><td>R1, R6</td><td>2</td><td>10K</td><td>Device:R</td><td>Resistors_SMD:R_0603</td><td>Resistor</td><td></td></tr>
-    <tr><td>R2, R3</td><td>2</td><td>5.1K</td><td>Device:R</td><td>Resistors_SMD:R_0603</td><td>Resistor</td><td></td></tr>
-    <tr><td>R4, R5</td><td>2</td><td>22</td><td>Device:R</td><td>Resistors_SMD:R_0603</td><td>Resistor</td><td></td></tr>
-    <tr><td>SW1</td><td>1</td><td>SW_PUSH</td><td>keyboard_parts:SW_PUSH</td><td>custom:pad-button</td><td></td><td></td></tr>
-    <tr><td>U1</td><td>1</td><td>ATmega16U4-AU_(modified)</td><td>atmega16u4-au_modified:ATmega16U4-AU_(modified)</td><td>Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm</td><td>16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, TQFP-44</td><td></td></tr>
-    <tr><td>USB1</td><td>1</td><td>HRO-TYPE-C</td><td>hro-type-c_modified:HRO-TYPE-C</td><td>Type-C:HRO-TYPE-C-31-M-12</td><td></td><td></td></tr>
-    <tr><td>X1</td><td>1</td><td>16MHz</td><td>keyboard_parts:XTAL</td><td>Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm</td><td></td><td></td></tr><!--TABLEROW-->
-    </table>
-    </body>
-</html>
-    
+"Source:","/home/jonas/code/project-zedekiel/pcb/zedekiel.sch"
+"Date:","Wed 08 Jul 2020 12:50:32 PM CEST"
+"Tool:","Eeschema 5.1.6"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","150"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"C1, ","1","1uF","C","Capacitors_SMD:C_0603","Unpolarized capacitor",""
+"C2, C3, ","2","22pF","C","Capacitors_SMD:C_0603","Unpolarized capacitor",""
+"C4, C5, C6, C7, ","4","100nF","C","Capacitors_SMD:C_0603","Unpolarized capacitor",""
+"C8, ","1","4.7uF","C","Capacitors_SMD:C_0603","Unpolarized capacitor",""
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, ","66","1N4148WS","1N4148WS","Diodes_SMD:D_SOD-323","75V 0.15A Fast switching Diode, SOD-323",""
+"K1, K43, K56, K66, ","4","KEYSW","KEYSW","custom:Kailh_socket_MX_1.50U","",""
+"K2, K3, K4, K5, K6, K7, K8, K9, K10, K11, K12, K13, K14, K16, K17, K18, K19, K20, K21, K22, K23, K24, K25, K26, K27, K30, K31, K32, K33, K34, K35, K36, K37, K38, K39, K40, K41, K44, K45, K46, K47, K48, K49, K50, K51, K52, K53, K54, K59, ","49","KEYSW","KEYSW","custom:Kailh_socket_MX_1.00U","",""
+"K15, ","1","KEYSW","KEYSW","custom:Kailh_socket_MX_1.75U","",""
+"K28, K60, ","2","KEYSW","KEYSW","custom:Kailh_socket_MX_2.25U","",""
+"K29, K42, K55, K57, K64, ","5","KEYSW","KEYSW","custom:Kailh_socket_MX_2.00U","",""
+"K58, K61, K62, K63, K65, ","5","KEYSW","KEYSW","custom:Kailh_socket_MX_1.25U","",""
+"R1, R6, ","2","10K","R","Resistors_SMD:R_0603","Resistor",""
+"R2, R3, ","2","5.1K","R","Resistors_SMD:R_0603","Resistor",""
+"R4, R5, ","2","22","R","Resistors_SMD:R_0603","Resistor",""
+"SW1, ","1","SW_PUSH","SW_PUSH","custom:pad-button","",""
+"U1, ","1","ATmega16U4-AU_(modified)","ATmega16U4-AU_(modified)","Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm","16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, TQFP-44",""
+"USB1, ","1","HRO-TYPE-C","HRO-TYPE-C","Type-C:HRO-TYPE-C-31-M-12","",""
+"X1, ","1","16MHz","XTAL","Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm","",""
