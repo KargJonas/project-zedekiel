@@ -72,7 +72,7 @@
       (usegerberattributes true)
       (usegerberadvancedattributes true)
       (creategerberjobfile true)
-      (excludeedgelayer true)
+      (excludeedgelayer false)
       (linewidth 0.100000)
       (plotframeref false)
       (viasonmask false)
@@ -90,9 +90,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "assembly"))
   )
 
   (net 0 "")
@@ -8882,6 +8882,7 @@
 
   (module custom:signature (layer B.Cu) (tedit 0) (tstamp 5EFC4385)
     (at 310.4 112.9 180)
+    (attr smd)
     (fp_text reference G*** (at 0 0) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
     )
@@ -8975,6 +8976,7 @@
 
   (module custom:silkscreen-art (layer F.Cu) (tedit 0) (tstamp 5EFC3547)
     (at 172.9 68.3)
+    (attr smd)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
@@ -11630,6 +11632,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF7C96) (tstamp 5EFE894F)
     (at 22.9 76.4)
     (path /5F212DC2)
+    (attr smd)
     (fp_text reference TP6 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11643,6 +11646,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF7CA8) (tstamp 5EFE8943)
     (at 22.9 78.9)
     (path /5F212DC2)
+    (attr smd)
     (fp_text reference TP6 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11656,6 +11660,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE8937)
     (at 22.9 86.4)
     (path /5F248B64)
+    (attr smd)
     (fp_text reference TP10 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11669,6 +11674,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE892B)
     (at 22.9 83.9)
     (path /5F23B9EB)
+    (attr smd)
     (fp_text reference TP9 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11682,6 +11688,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE891F)
     (at 22.9 81.4)
     (path /5F22D0CC)
+    (attr smd)
     (fp_text reference TP8 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11695,6 +11702,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE8913)
     (at 53 108.75)
     (path /5F21FF89)
+    (attr smd)
     (fp_text reference TP7 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11708,6 +11716,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE8907)
     (at 53 103.6)
     (path /5F212DC2)
+    (attr smd)
     (fp_text reference TP6 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11721,6 +11730,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE88F8)
     (at 53 106.18)
     (path /5F2116B9)
+    (attr smd)
     (fp_text reference TP5 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11734,6 +11744,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE88EC)
     (at 64.4 23.9)
     (path /5F100506)
+    (attr smd)
     (fp_text reference TP4 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11747,6 +11758,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE88E0)
     (at 61.9 23.9)
     (path /5F0E41D9)
+    (attr smd)
     (fp_text reference TP3 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11760,6 +11772,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE88D4)
     (at 59.4 23.9)
     (path /5F0D5D9F)
+    (attr smd)
     (fp_text reference TP2 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11773,6 +11786,7 @@
   (module custom:single-pad (layer B.Cu) (tedit 5EEF574D) (tstamp 5EFE88C8)
     (at 56.9 23.9)
     (path /5F0FDFC9)
+    (attr smd)
     (fp_text reference TP1 (at 0.4 3.4) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
@@ -11786,6 +11800,7 @@
   (module custom:pad-button (layer F.Cu) (tedit 5EEE0B49) (tstamp 5EFE87FA)
     (at 22.9 92 270)
     (path /5EE97D58)
+    (attr smd)
     (fp_text reference SW1 (at 0 -2.1 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -12980,7 +12995,7 @@
   (segment (start 23.905989 71.345989) (end 25.05 72.49) (width 0.254) (layer B.Cu) (net 112) (tstamp 5EFE7AFD))
   (segment (start 26.58 82.78) (end 26.58 84.22) (width 0.254) (layer B.Cu) (net 112) (tstamp 5EFE7AFA))
 
-  (zone (net 5) (net_name VCC) (layer B.Cu) (tstamp 5EFE7AF7) (hatch edge 0.508)
+  (zone (net 5) (net_name VCC) (layer B.Cu) (tstamp 5F05C697) (hatch edge 0.508)
     (connect_pads (clearance 0.2))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -17140,7 +17155,14 @@
         (xy 296.07143 113.275743) (xy 296.101794 113.33255) (xy 296.142657 113.382343) (xy 296.19245 113.423206) (xy 296.249257 113.45357)
         (xy 296.310897 113.472268) (xy 296.375 113.478582) (xy 296.825 113.478582) (xy 296.889103 113.472268) (xy 296.950743 113.45357)
         (xy 297.00755 113.423206) (xy 297.057343 113.382343) (xy 297.098206 113.33255) (xy 297.12857 113.275743) (xy 297.147268 113.214103)
-        (xy 297.153582 113.15) (xy 297.153582 112.93847) (xy 298.342265 111.749788) (xy 298.35958 111.735578) (xy 298.416314 111.666448)
+        (xy 297.153582 113.15) (xy 297.153582 112.93847) (xy 297.778429 112.313623) (xy 320.523 112.313623) (xy 320.523 112.486377)
+        (xy 320.556703 112.655811) (xy 320.622813 112.815415) (xy 320.71879 112.959055) (xy 320.840945 113.08121) (xy 320.984585 113.177187)
+        (xy 321.144189 113.243297) (xy 321.313623 113.277) (xy 321.486377 113.277) (xy 321.655811 113.243297) (xy 321.815415 113.177187)
+        (xy 321.959055 113.08121) (xy 322.08121 112.959055) (xy 322.177187 112.815415) (xy 322.243297 112.655811) (xy 322.277 112.486377)
+        (xy 322.277 112.313623) (xy 322.243297 112.144189) (xy 322.177187 111.984585) (xy 322.08121 111.840945) (xy 321.959055 111.71879)
+        (xy 321.815415 111.622813) (xy 321.655811 111.556703) (xy 321.486377 111.523) (xy 321.313623 111.523) (xy 321.144189 111.556703)
+        (xy 320.984585 111.622813) (xy 320.840945 111.71879) (xy 320.71879 111.840945) (xy 320.622813 111.984585) (xy 320.556703 112.144189)
+        (xy 320.523 112.313623) (xy 297.778429 112.313623) (xy 298.342265 111.749788) (xy 298.35958 111.735578) (xy 298.416314 111.666448)
         (xy 298.458471 111.587578) (xy 298.4641 111.56902) (xy 298.484431 111.501999) (xy 298.48648 111.481196) (xy 298.491001 111.435294)
         (xy 298.491001 111.435288) (xy 298.493196 111.413) (xy 298.491001 111.390712) (xy 298.491001 105.909289) (xy 298.493196 105.887001)
         (xy 298.491001 105.864713) (xy 298.491001 105.864706) (xy 298.484431 105.798002) (xy 298.477856 105.776325) (xy 298.458471 105.712422)
@@ -17813,15 +17835,22 @@
         (xy 44.041155 24.899662) (xy 43.970952 24.768321) (xy 43.867606 24.642394) (xy 43.741678 24.539048) (xy 43.598009 24.462255)
         (xy 43.442119 24.414966) (xy 43.28 24.398999) (xy 43.11788 24.414966) (xy 42.96199 24.462255) (xy 42.818321 24.539048)
         (xy 42.692394 24.642394) (xy 42.589048 24.768322) (xy 42.512255 24.911991) (xy 42.464966 25.067881) (xy 42.453 25.189377)
-        (xy 20.752 25.189377) (xy 20.752 22.9) (xy 55.261928 22.9) (xy 55.265 23.61425) (xy 55.42375 23.773)
-        (xy 56.773 23.773) (xy 56.773 22.42375) (xy 56.61425 22.265) (xy 55.9 22.261928) (xy 55.775518 22.274188)
-        (xy 55.65582 22.310498) (xy 55.545506 22.369463) (xy 55.448815 22.448815) (xy 55.369463 22.545506) (xy 55.310498 22.65582)
-        (xy 55.274188 22.775518) (xy 55.261928 22.9) (xy 20.752 22.9) (xy 20.752 22.545802) (xy 22.545803 20.752)
+        (xy 20.752 25.189377) (xy 20.752 23.313623) (xy 22.523 23.313623) (xy 22.523 23.486377) (xy 22.556703 23.655811)
+        (xy 22.622813 23.815415) (xy 22.71879 23.959055) (xy 22.840945 24.08121) (xy 22.984585 24.177187) (xy 23.144189 24.243297)
+        (xy 23.313623 24.277) (xy 23.486377 24.277) (xy 23.655811 24.243297) (xy 23.815415 24.177187) (xy 23.959055 24.08121)
+        (xy 24.08121 23.959055) (xy 24.177187 23.815415) (xy 24.243297 23.655811) (xy 24.277 23.486377) (xy 24.277 23.313623)
+        (xy 24.243297 23.144189) (xy 24.177187 22.984585) (xy 24.12067 22.9) (xy 55.261928 22.9) (xy 55.265 23.61425)
+        (xy 55.42375 23.773) (xy 56.773 23.773) (xy 56.773 22.42375) (xy 56.61425 22.265) (xy 55.9 22.261928)
+        (xy 55.775518 22.274188) (xy 55.65582 22.310498) (xy 55.545506 22.369463) (xy 55.448815 22.448815) (xy 55.369463 22.545506)
+        (xy 55.310498 22.65582) (xy 55.274188 22.775518) (xy 55.261928 22.9) (xy 24.12067 22.9) (xy 24.08121 22.840945)
+        (xy 23.959055 22.71879) (xy 23.815415 22.622813) (xy 23.655811 22.556703) (xy 23.486377 22.523) (xy 23.313623 22.523)
+        (xy 23.144189 22.556703) (xy 22.984585 22.622813) (xy 22.840945 22.71879) (xy 22.71879 22.840945) (xy 22.622813 22.984585)
+        (xy 22.556703 23.144189) (xy 22.523 23.313623) (xy 20.752 23.313623) (xy 20.752 22.545802) (xy 22.545803 20.752)
         (xy 42.65989 20.752)
       )
     )
   )
-  (zone (net 2) (net_name GND) (layer F.Cu) (tstamp 5EFEB9B2) (hatch edge 0.508)
+  (zone (net 2) (net_name GND) (layer F.Cu) (tstamp 5F05C694) (hatch edge 0.508)
     (connect_pads (clearance 0.2))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))

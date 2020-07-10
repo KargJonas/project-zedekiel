@@ -1,4 +1,5184 @@
-31871948431667
+1398110834587345
+Alps_Only
+ALPS-1.5U
+
+
+0
+2
+2
+Alps_Only
+ALPS-1.5U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-1.25U
+
+
+0
+2
+2
+Alps_Only
+ALPS-1.25U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-1.75U
+
+
+0
+2
+2
+Alps_Only
+ALPS-1.75U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-1U
+
+
+0
+2
+2
+Alps_Only
+ALPS-1U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-2.5U
+
+
+0
+2
+2
+Alps_Only
+ALPS-2.5U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-2.25U
+
+
+0
+2
+2
+Alps_Only
+ALPS-2.25U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-2.75U
+
+
+0
+2
+2
+Alps_Only
+ALPS-2.75U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-2U
+
+
+0
+2
+2
+Alps_Only
+ALPS-2U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-3U
+
+
+0
+2
+2
+Alps_Only
+ALPS-3U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-6.5U
+
+
+0
+2
+2
+Alps_Only
+ALPS-6.5U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-6.25U
+
+
+0
+2
+2
+Alps_Only
+ALPS-6.25U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-7U
+
+
+0
+2
+2
+Alps_Only
+ALPS-7U-LED
+
+
+0
+4
+4
+Alps_Only
+ALPS-LEDONLY
+
+
+0
+2
+2
+Alps_Only
+ALPS-LEDONLY-FLIPPED
+
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_3x5.3
+SMT capacitor, aluminium electrolytic, 3x5.3
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_4x4.5
+SMT capacitor, aluminium electrolytic, 4x4.5
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_4x5.3
+SMT capacitor, aluminium electrolytic, 4x5.3
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_4x5.7
+SMT capacitor, aluminium electrolytic, 4x5.7
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_4x5.8
+SMT capacitor, aluminium electrolytic, 4x5.8
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_5x4.5
+SMT capacitor, aluminium electrolytic, 5x4.5
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_5x5.3
+SMT capacitor, aluminium electrolytic, 5x5.3
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_5x5.7
+SMT capacitor, aluminium electrolytic, 5x5.7
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_5x5.8
+SMT capacitor, aluminium electrolytic, 5x5.8
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_6.3x4.5
+SMT capacitor, aluminium electrolytic, 6.3x4.5
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_6.3x5.3
+SMT capacitor, aluminium electrolytic, 6.3x5.3
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_6.3x5.7
+SMT capacitor, aluminium electrolytic, 6.3x5.7
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_6.3x5.8
+SMT capacitor, aluminium electrolytic, 6.3x5.8
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_6.3x7.7
+SMT capacitor, aluminium electrolytic, 6.3x7.7
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_8x5.4
+SMT capacitor, aluminium electrolytic, 8x5.4
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_8x6.5
+SMT capacitor, aluminium electrolytic, 8x6.5
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_8x6.7
+SMT capacitor, aluminium electrolytic, 8x6.7
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_8x10
+SMT capacitor, aluminium electrolytic, 8x10
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_8x10.5
+SMT capacitor, aluminium electrolytic, 8x10.5
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_10x7.7
+SMT capacitor, aluminium electrolytic, 10x7.7
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_10x10
+SMT capacitor, aluminium electrolytic, 10x10
+
+0
+2
+2
+Capacitors_SMD
+CP_Elec_10x10.5
+SMT capacitor, aluminium electrolytic, 10x10.5
+
+0
+2
+2
+Capacitors_SMD
+C_0201
+Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)
+capacitor 0201
+0
+2
+2
+Capacitors_SMD
+C_0201_NoSilk
+Capacitor SMD 0201, reflow soldering, AVX (see smccp.pdf)
+capacitor 0201
+0
+2
+2
+Capacitors_SMD
+C_0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+Capacitors_SMD
+C_0402_NoSilk
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+Capacitors_SMD
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+Capacitors_SMD
+C_0603_HandSoldering
+Capacitor SMD 0603, hand soldering
+capacitor 0603
+0
+2
+2
+Capacitors_SMD
+C_0805
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+Capacitors_SMD
+C_0805_HandSoldering
+Capacitor SMD 0805, hand soldering
+capacitor 0805
+0
+2
+2
+Capacitors_SMD
+C_1206
+Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)
+capacitor 1206
+0
+2
+2
+Capacitors_SMD
+C_1206_HandSoldering
+Capacitor SMD 1206, hand soldering
+capacitor 1206
+0
+2
+2
+Capacitors_SMD
+C_1210
+Capacitor SMD 1210, reflow soldering, AVX (see smccp.pdf)
+capacitor 1210
+0
+2
+2
+Capacitors_SMD
+C_1210_HandSoldering
+Capacitor SMD 1210, hand soldering
+capacitor 1210
+0
+2
+2
+Capacitors_SMD
+C_1812
+Capacitor SMD 1812, reflow soldering, AVX (see smccp.pdf)
+capacitor 1812
+0
+2
+2
+Capacitors_SMD
+C_1812_HandSoldering
+Capacitor SMD 1812, hand soldering
+capacitor 1812
+0
+2
+2
+Capacitors_SMD
+C_1825
+Capacitor SMD 1825, reflow soldering, AVX (see smccp.pdf)
+capacitor 1825
+0
+2
+2
+Capacitors_SMD
+C_1825_HandSoldering
+Capacitor SMD 1825, hand soldering
+capacitor 1825
+0
+2
+2
+Capacitors_SMD
+C_2220
+Capacitor SMD 2220, reflow soldering, AVX (see smccp.pdf)
+capacitor 2220
+0
+2
+2
+Capacitors_SMD
+C_2220_HandSoldering
+Capacitor SMD 2220, hand soldering
+capacitor 2220
+0
+2
+2
+Capacitors_SMD
+C_2225
+Capacitor SMD 2225, reflow soldering, AVX (see smccp.pdf)
+capacitor 2225
+0
+2
+2
+Capacitors_SMD
+C_2225_HandSoldering
+Capacitor SMD 2225, hand soldering
+capacitor 2225
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Murata_TZB4-A
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Murata_TZB4-B
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Murata_TZC3
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZC3
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Murata_TZR1
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZR1
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Murata_TZW4
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZW4
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Murata_TZY2
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZY2
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Sprague-Goodman_SGC3
+trimmer capacitor SMD horizontal, http://media.wix.com/ugd/d86717_38d9821e12823a7aa9cef38c6c2a73cc.pdf
+ Sprague Goodman SGC3
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Voltronics_JN
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JN
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Voltronics_JQ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JQ
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Voltronics_JR
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Voltronics_JV
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JV
+0
+2
+2
+Capacitors_SMD
+C_Trimmer_Voltronics_JZ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
+0
+2
+2
+Connectors_USB
+USB3_A_Molex_48393-001
+USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
+USB 3.0 type A right angle
+0
+13
+10
+Connectors_USB
+USB_C_Plug_Molex_105444
+Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf
+USB Type-C Plug Edge Mount
+0
+24
+23
+Connectors_USB
+USB_C_Receptacle_Amphenol_12401548E4-2A
+USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
+USB C Type-C Receptacle Hybrid
+0
+28
+25
+Connectors_USB
+USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles
+USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
+USB C Type-C Receptacle Hybrid
+0
+28
+25
+Connectors_USB
+USB_C_Receptacle_Amphenol_12401610E4-2A
+USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
+USB C Type-C Receptacle SMD
+0
+28
+25
+Connectors_USB
+USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles
+USB TYPE C, RA RCPT PCB, SMT, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401610E4%7e2A
+USB C Type-C Receptacle SMD
+0
+28
+25
+Connectors_USB
+USB_Micro-B_Molex-105017-0001
+http://www.molex.com/pdm_docs/sd/1050170001_sd.pdf
+Micro-USB SMD Typ-B
+0
+13
+6
+Connectors_USB
+USB_Micro-B_Molex_47346-0001
+Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://www.molex.com/pdm_docs/sd/473460001_sd.pdf)
+Micro B USB SMD
+0
+11
+6
+Connectors_USB
+USB_Micro-B_Vertical_Molex-105133-0001
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+8
+6
+Connectors_USB
+USB_Micro-B_Wuerth-614105150721_Vertical
+USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf
+usb micro receptacle vertical
+0
+7
+6
+Connectors_USB
+USB_Micro-B_Wuerth-614105150721_Vertical_CircularHoles
+USB Micro-B receptacle, through-hole, vertical, http://katalog.we-online.de/em/datasheet/614105150721.pdf
+usb micro receptacle vertical
+0
+7
+6
+Connectors_USB
+USB_Micro-B_Wuerth-629105150521
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+Connectors_USB
+USB_Micro-B_Wuerth-629105150521_CircularHoles
+USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf
+usb micro receptacle
+0
+9
+6
+Crystals
+Crystal_AT310_d3.0mm_l10.0mm_Horizontal
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter
+['AT310']
+0
+2
+2
+Crystals
+Crystal_AT310_d3.0mm_l10.0mm_Horizontal_1EP_style1
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter
+['AT310']
+0
+3
+3
+Crystals
+Crystal_AT310_d3.0mm_l10.0mm_Horizontal_1EP_style2
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter
+['AT310']
+0
+5
+3
+Crystals
+Crystal_AT310_d3.0mm_l10.0mm_Vertical
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter
+['AT310']
+0
+2
+2
+Crystals
+Crystal_C26-LF_d2.1mm_l6.5mm_Horizontal
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+2
+2
+Crystals
+Crystal_C26-LF_d2.1mm_l6.5mm_Horizontal_1EP_style1
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+3
+3
+Crystals
+Crystal_C26-LF_d2.1mm_l6.5mm_Horizontal_1EP_style2
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+5
+3
+Crystals
+Crystal_C26-LF_d2.1mm_l6.5mm_Vertical
+Crystal THT C26-LF 6.5mm length 2.06mm diameter
+['C26-LF']
+0
+2
+2
+Crystals
+Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+2
+2
+Crystals
+Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal_1EP_style1
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+3
+3
+Crystals
+Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal_1EP_style2
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+5
+3
+Crystals
+Crystal_C38-LF_d3.0mm_l8.0mm_Vertical
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+2
+2
+Crystals
+Crystal_DS10_d1.0mm_l4.3mm_Horizontal
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+2
+2
+Crystals
+Crystal_DS10_d1.0mm_l4.3mm_Horizontal_1EP_style1
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+3
+3
+Crystals
+Crystal_DS10_d1.0mm_l4.3mm_Horizontal_1EP_style2
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+5
+3
+Crystals
+Crystal_DS10_d1.0mm_l4.3mm_Vertical
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+2
+2
+Crystals
+Crystal_DS15_d1.5mm_l5.0mm_Horizontal
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+2
+2
+Crystals
+Crystal_DS15_d1.5mm_l5.0mm_Horizontal_1EP_style1
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+3
+3
+Crystals
+Crystal_DS15_d1.5mm_l5.0mm_Horizontal_1EP_style2
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+5
+3
+Crystals
+Crystal_DS15_d1.5mm_l5.0mm_Vertical
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+2
+2
+Crystals
+Crystal_DS26_d2.0mm_l6.0mm_Horizontal
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+2
+2
+Crystals
+Crystal_DS26_d2.0mm_l6.0mm_Horizontal_1EP_style1
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+3
+3
+Crystals
+Crystal_DS26_d2.0mm_l6.0mm_Horizontal_1EP_style2
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+5
+3
+Crystals
+Crystal_DS26_d2.0mm_l6.0mm_Vertical
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+2
+2
+Crystals
+Crystal_HC18-U_Horizontal
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC18-U_Horizontal_1EP_style1
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC18-U_Horizontal_1EP_style2
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC18-U_Vertical
+Crystal THT HC-18/U, http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-18/U
+0
+2
+2
+Crystals
+Crystal_HC33-U_Horizontal
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC33-U_Horizontal_1EP_style1
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC33-U_Horizontal_1EP_style2
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC33-U_Vertical
+Crystal THT HC-33/U, http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf
+THT crystalHC-33/U
+0
+2
+2
+Crystals
+Crystal_HC35-U
+Crystal, Quarz, HC35/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/TO71xx.pdf
+Crystal Quarz HC35/U
+0
+3
+3
+Crystals
+Crystal_HC49-4H_Vertical
+Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-49-4H
+0
+2
+2
+Crystals
+Crystal_HC49-U-3pin_Vertical
+Crystal THT HC-49/U, 3pin-version, http://www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf
+THT crystalHC-49/U
+0
+3
+3
+Crystals
+Crystal_HC49-U_Horizontal
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC49-U_Horizontal_1EP_style1
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC49-U_Horizontal_1EP_style2
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC49-U_Vertical
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf
+THT crystalHC-49/U
+0
+2
+2
+Crystals
+Crystal_HC50_Horizontal
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC50_Horizontal_1EP_style1
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC50_Horizontal_1EP_style2
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC50_Vertical
+Crystal THT HC-50, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf
+THT crystalHC-50
+0
+2
+2
+Crystals
+Crystal_HC51-U_Vertical
+Crystal THT HC-51/U, http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystalHC-51/U
+0
+2
+2
+Crystals
+Crystal_HC51_Horizontal
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC51_Horizontal_1EP_style1
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC51_Horizontal_1EP_style2
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC52-6mm_Horizontal
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC52-6mm_Horizontal_1EP_style1
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC52-6mm_Horizontal_1EP_style2
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC52-6mm_Vertical
+Crystal THT HC-52/6mm, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystalHC-49/U
+0
+2
+2
+Crystals
+Crystal_HC52-8mm_Horizontal
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC52-8mm_Horizontal_1EP_style1
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC52-8mm_Horizontal_1EP_style2
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC52-8mm_Vertical
+Crystal THT HC-52/8mm, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystalHC-49/U
+0
+2
+2
+Crystals
+Crystal_HC52-U-3pin_Vertical
+Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystalHC-52/U
+0
+3
+3
+Crystals
+Crystal_HC52-U_Horizontal
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+2
+2
+Crystals
+Crystal_HC52-U_Horizontal_1EP_style1
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+3
+3
+Crystals
+Crystal_HC52-U_Horizontal_1EP_style2
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal
+0
+5
+3
+Crystals
+Crystal_HC52-U_Vertical
+Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf
+THT crystal HC-52/U
+0
+2
+2
+Crystals
+Crystal_Round_d1.0mm_Vertical
+Crystal THT DS10 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS10']
+0
+2
+2
+Crystals
+Crystal_Round_d1.5mm_Vertical
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS15']
+0
+2
+2
+Crystals
+Crystal_Round_d2.0mm_Vertical
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf
+['DS26']
+0
+2
+2
+Crystals
+Crystal_Round_d3.0mm_Vertical
+Crystal THT C38-LF 8.0mm length 3.0mm diameter
+['C38-LF']
+0
+2
+2
+Crystals
+Crystal_SMD_0603-2pin_6.0x3.5mm
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_0603-2pin_6.0x3.5mm_HandSoldering
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, hand-soldering, 6.0x3.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_0603-4pin_6.0x3.5mm
+SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, 6.0x3.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_0603-4pin_6.0x3.5mm_HandSoldering
+SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, hand-soldering, 6.0x3.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_2012-2pin_2.0x1.2mm
+SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_2012-2pin_2.0x1.2mm_HandSoldering
+SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_2016-4pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_2520-4pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_3215-2pin_3.2x1.5mm
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
+SMD SMT Crystal
+0
+2
+2
+Crystals
+Crystal_SMD_3225-4pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_3225-4pin_3.2x2.5mm_HandSoldering
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_5032-2pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_5032-2pin_5.0x3.2mm_HandSoldering
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_5032-4pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_7050-2pin_7.0x5.0mm
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_7050-2pin_7.0x5.0mm_HandSoldering
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_7050-4pin_7.0x5.0mm
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3 http://www.abracon.com/Resonators/abm3.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm_HandSoldering
+Abracon Miniature Ceramic Smd Crystal ABM3 http://www.abracon.com/Resonators/abm3.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_Abracon_ABM3B-4pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3B http://www.abracon.com/Resonators/abm3b.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_Abracon_ABM3C-4pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3C http://www.abracon.com/Resonators/abm3c.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_Abracon_ABM8G-4pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_EQ161-2pin_3.2x1.5mm
+SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, 3.2x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_EuroQuartz_EQ161-2pin_3.2x1.5mm_HandSoldering
+SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, hand-soldering, 3.2x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_EuroQuartz_MJ-4pin_5.0x3.2mm
+SMD Crystal EuroQuartz MJ series http://cdn-reichelt.de/documents/datenblatt/B400/MJ.pdf, 5.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_MJ-4pin_5.0x3.2mm_HandSoldering
+SMD Crystal EuroQuartz MJ series http://cdn-reichelt.de/documents/datenblatt/B400/MJ.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_MQ-4pin_7.0x5.0mm
+SMD Crystal EuroQuartz MQ series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_MQ-4pin_7.0x5.0mm_HandSoldering
+SMD Crystal EuroQuartz MQ series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_MQ2-2pin_7.0x5.0mm
+SMD Crystal EuroQuartz MQ2 series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_EuroQuartz_MQ2-2pin_7.0x5.0mm_HandSoldering
+SMD Crystal EuroQuartz MQ2 series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_EuroQuartz_MT-4pin_3.2x2.5mm
+SMD Crystal EuroQuartz MT series http://cdn-reichelt.de/documents/datenblatt/B400/MT.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_MT-4pin_3.2x2.5mm_HandSoldering
+SMD Crystal EuroQuartz MT series http://cdn-reichelt.de/documents/datenblatt/B400/MT.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_X22-4pin_2.5x2.0mm
+SMD Crystal EuroQuartz X22 series http://cdn-reichelt.de/documents/datenblatt/B400/DS_X22.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_EuroQuartz_X22-4pin_2.5x2.0mm_HandSoldering
+SMD Crystal EuroQuartz X22 series http://cdn-reichelt.de/documents/datenblatt/B400/DS_X22.pdf, hand-soldering, 2.5x2.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_FOX_FE-2pin_7.5x5.0mm
+crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, 7.5x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_FOX_FE-2pin_7.5x5.0mm_HandSoldering
+crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, hand-soldering, 7.5x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_FOX_FQ7050-2pin_7.0x5.0mm
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_FOX_FQ7050-2pin_7.0x5.0mm_HandSoldering
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, hand-soldering, 7.0x5.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_FOX_FQ7050-4pin_7.0x5.0mm
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_FrontierElectronics_FM206
+SMD Watch Crystal FrontierElectronics FM206 6.0mm length 1.9mm diameter http://www.chinafronter.com/wp-content/uploads/2013/12/FM206.pdf
+['FM206']
+0
+3
+3
+Crystals
+Crystal_SMD_G8-2pin_3.2x1.5mm
+SMD Crystal G8, 3.2x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_G8-2pin_3.2x1.5mm_HandSoldering
+SMD Crystal G8, hand-soldering, 3.2x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_HC49-SD
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_HC49-SD_HandSoldering
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC1V-T1A-2pin_8.0x3.7mm
+SMD Crystal MicroCrystal CC1V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf, 8.0x3.7mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC1V-T1A-2pin_8.0x3.7mm_HandSoldering
+SMD Crystal MicroCrystal CC1V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf, hand-soldering, 8.0x3.7mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC4V-T1A-2pin_5.0x1.9mm
+SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, 5.0x1.9mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC4V-T1A-2pin_5.0x1.9mm_HandSoldering
+SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, hand-soldering, 5.0x1.9mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC5V-T1A-2pin_4.1x1.5mm
+SMD Crystal MicroCrystal CC5V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC5V-T1A.pdf, 4.1x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC5V-T1A-2pin_4.1x1.5mm_HandSoldering
+SMD Crystal MicroCrystal CC5V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC5V-T1A.pdf, hand-soldering, 4.1x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC7V-T1A-2pin_3.2x1.5mm
+SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf, 3.2x1.5mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC7V-T1A-2pin_3.2x1.5mm_HandSoldering
+SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf, hand-soldering, 3.2x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC8V-T1A-2pin_2.0x1.2mm
+SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC8V-T1A.pdf, 2.0x1.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CC8V-T1A-2pin_2.0x1.2mm_HandSoldering
+SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC8V-T1A.pdf, hand-soldering, 2.0x1.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CM9V-T1A-2pin_1.6x1.0mm
+SMD Crystal MicroCrystal CM9V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CM9V-T1A.pdf, 1.6x1.0mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_CM9V-T1A-2pin_1.6x1.0mm_HandSoldering
+SMD Crystal MicroCrystal CM9V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CM9V-T1A.pdf, hand-soldering, 1.6x1.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_MicroCrystal_MS1V-T1K
+SMD Watch Crystal MicroCrystal MS1V-T1K 6.1mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS1V-T1K.pdf
+['MS1V-T1K']
+0
+3
+3
+Crystals
+Crystal_SMD_MicroCrystal_MS3V-T1R
+SMD Watch Crystal MicroCrystal MS3V-T1R 5.2mm length 1.4mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS3V-T1R.pdf
+['MS3V-T1R']
+0
+3
+3
+Crystals
+Crystal_SMD_SeikoEpson_FA238-4pin_3.2x2.5mm
+crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_FA238-4pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_FA238V-4pin_3.2x2.5mm
+crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_FA238V-4pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MA406-4pin_11.7x4.0mm
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 11.7x4.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MA406-4pin_11.7x4.0mm_HandSoldering
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 11.7x4.0mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MA505-2pin_12.7x5.1mm
+SMD Crystal Seiko Epson MC-505 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 12.7x5.1mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_SeikoEpson_MA505-2pin_12.7x5.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-505 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_SeikoEpson_MA506-4pin_12.7x5.1mm
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 12.7x5.1mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MA506-4pin_12.7x5.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC146-4pin_6.7x1.5mm
+SMD Crystal Seiko Epson MC-146 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, 6.7x1.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC146-4pin_6.7x1.5mm_HandSoldering
+SMD Crystal Seiko Epson MC-146 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, hand-soldering, 6.7x1.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC156-4pin_7.1x2.5mm
+SMD Crystal Seiko Epson MC-156 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, 7.1x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC156-4pin_7.1x2.5mm_HandSoldering
+SMD Crystal Seiko Epson MC-156 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, hand-soldering, 7.1x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC306-4pin_8.0x3.2mm
+SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 8.0x3.2mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC306-4pin_8.0x3.2mm_HandSoldering
+SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 8.0x3.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC405-2pin_9.6x4.1mm
+SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_SeikoEpson_MC405-2pin_9.6x4.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 9.6x4.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Crystal_SMD_SeikoEpson_MC406-4pin_9.6x4.1mm
+SMD Crystal Seiko Epson MC-406 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_MC406-4pin_9.6x4.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-406 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 9.6x4.1mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_TSX3225-4pin_3.2x2.5mm
+crystal Epson Toyocom TSX-3225 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_SeikoEpson_TSX3225-4pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom TSX-3225 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_TXC_7M-4pin_3.2x2.5mm
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Crystals
+Crystal_SMD_TXC_7M-4pin_3.2x2.5mm_HandSoldering
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystals
+Crystal_SMD_TXC_9HT11-2pin_2.0x1.2mm
+SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package
+SMD SMT crystal
+0
+2
+2
+Crystals
+Crystal_SMD_TXC_9HT11-2pin_2.0x1.2mm_HandSoldering
+SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystals
+Resonator-2pin_w6.0mm_h3.0mm
+Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystals
+Resonator-2pin_w7.0mm_h2.5mm
+Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystals
+Resonator-2pin_w8.0mm_h3.5mm
+Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystals
+Resonator-2pin_w10.0mm_h5.0mm
+Ceramic Resomator/Filter 10.0x5.0 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 2 pins
+THT ceramic resonator filter
+0
+2
+2
+Crystals
+Resonator-3pin_w6.0mm_h3.0mm
+Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystals
+Resonator-3pin_w7.0mm_h2.5mm
+Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystals
+Resonator-3pin_w8.0mm_h3.5mm
+Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystals
+Resonator-3pin_w10.0mm_h5.0mm
+Ceramic Resomator/Filter 10.0x5.0mm^2 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 3 pins
+THT ceramic resonator filter
+0
+3
+3
+Crystals
+Resonator_SMD-3pin_7.2x3.0mm
+SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, 7.2x3.0mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystals
+Resonator_SMD-3pin_7.2x3.0mm_HandSoldering
+SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, hand-soldering, 7.2x3.0mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystals
+Resonator_SMD_muRata_CDSCB-2pin_4.5x2.0mm
+SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 4.5x2.0mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+2
+2
+Crystals
+Resonator_SMD_muRata_CDSCB-2pin_4.5x2.0mm_HandSoldering
+SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 4.5x2.0mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+2
+2
+Crystals
+Resonator_SMD_muRata_SFECV-3pin_6.9x2.9mm
+SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 6.9x2.9mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystals
+Resonator_SMD_muRata_SFECV-3pin_6.9x2.9mm_HandSoldering
+SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 6.9x2.9mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystals
+Resonator_SMD_muRata_SFSKA-3pin_7.9x3.8mm
+SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystals
+Resonator_SMD_muRata_SFSKA-3pin_7.9x3.8mm_HandSoldering
+SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystals
+Resonator_SMD_muRata_TPSKA-3pin_7.9x3.8mm
+SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystals
+Resonator_SMD_muRata_TPSKA-3pin_7.9x3.8mm_HandSoldering
+SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystals
+Resonator_muRata_CSTLSxxxG-3pin_w8.0mm_h3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxG, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=8.0x3.0mm^2 package, package length=8.0mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter CSTLSxxxG
+0
+3
+3
+Crystals
+Resonator_muRata_CSTLSxxxX-3pin_w5.5mm_h3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter CSTLSxxxX
+0
+3
+3
+Crystals
+Resonator_muRata_DSN6-3pin_w7.0mm_h2.5mm
+Ceramic Resomator/Filter Murata DSN6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter DSN6
+0
+3
+3
+Crystals
+Resonator_muRata_DSS6-3pin_w7.0mm_h2.5mm
+Ceramic Resomator/Filter Murata DSS6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter DSS6
+0
+3
+3
+Diodes_SMD
+D_0603
+Diode SMD in 0603 package http://datasheets.avx.com/schottky.pdf
+smd diode
+0
+2
+2
+Diodes_SMD
+D_0805
+Diode SMD in 0805 package http://datasheets.avx.com/schottky.pdf
+smd diode
+0
+2
+2
+Diodes_SMD
+D_1206
+Diode SMD 1206, reflow soldering http://datasheets.avx.com/schottky.pdf
+Diode 1206
+0
+2
+2
+Diodes_SMD
+D_2010
+Diode SMD 2010, reflow soldering http://datasheets.avx.com/schottky.pdf
+Diode 2010
+0
+2
+2
+Diodes_SMD
+D_2114
+Diode SMD 2114, reflow soldering http://datasheets.avx.com/schottky.pdf
+Diode 2114
+0
+2
+2
+Diodes_SMD
+D_3220
+Diode SMD 3220, reflow soldering http://datasheets.avx.com/schottky.pdf
+Diode 3220
+0
+2
+2
+Diodes_SMD
+D_MELF
+Diode, MELF,,
+Diode MELF 
+0
+2
+2
+Diodes_SMD
+D_MELF-RM10_Universal_Handsoldering
+Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,
+Diode Universal MELF RM10 Handsoldering SMD Thruhole 
+0
+2
+2
+Diodes_SMD
+D_MELF_Handsoldering
+Diode MELF Handsoldering
+Diode MELF Handsoldering
+0
+2
+2
+Diodes_SMD
+D_MicroMELF
+Diode, MicroMELF, http://www.vishay.com/docs/85597/bzm55-se.pdf
+MicroMELF Diode
+0
+2
+2
+Diodes_SMD
+D_MicroMELF_Hadsoldering
+Diode, MicroMELF, hand-soldering, http://www.vishay.com/docs/85597/bzm55-se.pdf
+MicroMELF Diode
+0
+2
+2
+Diodes_SMD
+D_MiniMELF
+Diode Mini-MELF
+Diode Mini-MELF
+0
+2
+2
+Diodes_SMD
+D_MiniMELF_Handsoldering
+Diode Mini-MELF Handsoldering
+Diode Mini-MELF Handsoldering
+0
+2
+2
+Diodes_SMD
+D_PowerDI-123
+http://www.diodes.com/_files/datasheets/ds30497.pdf
+PowerDI diode vishay
+0
+2
+2
+Diodes_SMD
+D_Powermite2_AK
+Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
+PowerMite2
+0
+2
+2
+Diodes_SMD
+D_Powermite2_KA
+Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
+PowerMite2
+0
+2
+2
+Diodes_SMD
+D_Powermite3
+Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340)
+PowerMite3
+0
+3
+3
+Diodes_SMD
+D_Powermite_AK
+Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
+Powermite
+0
+2
+2
+Diodes_SMD
+D_Powermite_KA
+Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
+Powermite
+0
+2
+2
+Diodes_SMD
+D_SC-80
+JEITA SC-80
+SC-80
+0
+2
+2
+Diodes_SMD
+D_SC-80_HandSoldering
+JEITA SC-80
+SC-80
+0
+2
+2
+Diodes_SMD
+D_SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+Diodes_SMD
+D_SMA-SMB_Universal_Handsoldering
+Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering,
+Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering 
+0
+2
+2
+Diodes_SMD
+D_SMA_Handsoldering
+Diode SMA (DO-214AC) Handsoldering
+Diode SMA (DO-214AC) Handsoldering
+0
+2
+2
+Diodes_SMD
+D_SMB
+Diode SMB (DO-214AA)
+Diode SMB (DO-214AA)
+0
+2
+2
+Diodes_SMD
+D_SMB-SMC_Universal_Handsoldering
+Diode, Universal, SMB(DO-214AA) or SMC (DO-214AB), Handsoldering,
+Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering 
+0
+2
+2
+Diodes_SMD
+D_SMB_Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+0
+2
+2
+Diodes_SMD
+D_SMB_Modified
+Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)
+Diode SMB (DO-214AA)
+0
+3
+3
+Diodes_SMD
+D_SMC
+Diode SMC (DO-214AB)
+Diode SMC (DO-214AB)
+0
+2
+2
+Diodes_SMD
+D_SMC-RM10_Universal_Handsoldering
+Diode, Universal, SMC (DO-214AB), RM10, Handsoldering, SMD, Thruhole
+Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole
+0
+2
+2
+Diodes_SMD
+D_SMC_Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+0
+2
+2
+Diodes_SMD
+D_SOD-110
+SOD-110
+SOD-110
+0
+2
+2
+Diodes_SMD
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+Diodes_SMD
+D_SOD-123F
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+Diodes_SMD
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+Diodes_SMD
+D_SOD-323F
+SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
+SOD-323F
+0
+2
+2
+Diodes_SMD
+D_SOD-323_HandSoldering
+SOD-323
+SOD-323
+0
+2
+2
+Diodes_SMD
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+Diodes_SMD
+D_SOT-23_ANK
+SOT-23, Single Diode
+SOT-23
+0
+3
+2
+Diodes_SMD
+D_SOT-23_NKA
+SOT-23, Single Diode
+SOT-23
+0
+3
+2
+Diodes_SMD
+D_TUMD2
+ROHM - TUMD2
+TUMD2
+0
+2
+2
+Diodes_SMD
+Diode_Bridge_DFS
+SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf
+DFS
+0
+4
+4
+Diodes_SMD
+Diode_Bridge_MBLS
+SMD diode bridge MBLS, see http://www.vishay.com/docs/89959/mbl104s.pdf http://www.vishay.com/docs/88854/padlayouts.pdf
+DFS
+0
+4
+4
+Diodes_SMD
+Diode_Bridge_TO-269AA
+SMD diode bridge TO-269AA (MBS), see http://www.vishay.com/docs/88854/padlayouts.pdf
+TO-269AA MBS
+0
+4
+4
+Fiducials
+Fiducial_0.5mm_Dia_1mm_Outer
+Circular Fiducial, 0.5mm bare copper top; 1mm keepout (Level C)
+marker
+0
+1
+1
+Fiducials
+Fiducial_0.75mm_Dia_1.5mm_Outer
+Circular Fiducial, 0.75mm bare copper top; 1.5mm keepout (Level B)
+marker
+0
+1
+1
+Fiducials
+Fiducial_1mm_Dia_2.54mm_Outer_CopperBottom
+Circular Fiducial, 1mm bare copper bottom; 2.54mm keepout
+marker
+0
+1
+1
+Fiducials
+Fiducial_1mm_Dia_2.54mm_Outer_CopperTop
+Circular Fiducial, 1mm bare copper top; 2.54mm keepout
+marker
+0
+1
+1
+Fiducials
+Fiducial_1mm_Dia_2mm_Outer
+Circular Fiducial, 1mm bare copper top; 2mm keepout (Level A)
+marker
+0
+1
+1
+Fiducials
+Fiducial_Modern_CopperBottom
+Fiducial, Modern, Copper Bottom, Passermarke,
+Fiducial, Modern, Copper Bottom, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_Modern_CopperTop
+Fiducial, Modern, Copper Top, Passermarke,
+Fiducial, Modern, Copper Top, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_Modern_SilkscreenTop
+Fiducial, Modern, Silkscreen Top, Passermarke,
+Fiducial, Modern, Silkscreen Top, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_Small_CopperBottom_Type1
+Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Bottom, Typ 1, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_Small_CopperBottom_Type2
+Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
+Fiducial, Classical, Small, Copper Bottom, Typ 2, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_Small_CopperTop_Type1
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_Small_CopperTop_Type2
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 2, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_Small_SilkscreenTop_Type1
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Small, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_Small_SilkscreenTop_Type2
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classical, Small, Silkscreen Top, Typ 2, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_big_CopperBottom_Type1
+Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke,
+Fiducial, Classical, Big, Copper Bottom, Typ 1, Passermarke, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_big_CopperBottom_Type2
+Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke,
+Fiducial, Classical, Big, Copper Bottom, Typ 2, Passermarke, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_big_CopperTop_Type1
+Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
+Fiducial, Classical, Big, Copper Top, Typ 1, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_big_CopperTop_Type2
+Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
+Fiducial, Classical, Big, Copper Top, Typ 2, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_big_SilkscreenTop_Type1
+Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
+Fiducial, Classical, Big, Silkscreen Top, Typ 1, Passermarke,
+0
+1
+0
+Fiducials
+Fiducial_classic_big_SilkscreenTop_Type2
+Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
+Fiducial, Classical, Big, Silkscreen Top, Typ 2, Passermarke,
+0
+1
+0
+Housings_QFP
+HTQFP-64-1EP_10x10mm_Pitch0.5mm_ThermalPad
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [HTQFP] thermal pad
+HTQFP-64 Pitch 0.5 
+0
+130
+65
+Housings_QFP
+LQFP-32-1EP_5x5mm_Pitch0.5mm
+LQFP32: plastic low profile quad flat package; 32 leads; body 5 x 5 x 1.4 mm (see NXP sot401-1_fr.pdf and sot401-1_po.pdf)
+QFP 0.5
+0
+36
+33
+Housings_QFP
+LQFP-32_5x5mm_Pitch0.5mm
+LQFP32: plastic low profile quad flat package; 32 leads; body 5 x 5 x 1.4 mm (see NXP sot401-1_fr.pdf and sot401-1_po.pdf)
+QFP 0.5
+0
+32
+32
+Housings_QFP
+LQFP-32_7x7mm_Pitch0.8mm
+LQFP32: plastic low profile quad flat package; 32 leads; body 7 x 7 x 1.4 mm (see NXP sot358-1_po.pdf and sot358-1_fr.pdf)
+QFP 0.8
+0
+32
+32
+Housings_QFP
+LQFP-36_7x7mm_Pitch0.65mm
+LQFP36 7x7 / QFP36 CASE 561AV (see ON Semiconductor 561AV.PDF)
+QFP 0.65
+0
+36
+36
+Housings_QFP
+LQFP-44_10x10mm_Pitch0.8mm
+LQFP44 (see Appnote_PCB_Guidelines_TRINAMIC_packages.pdf)
+QFP 0.8
+0
+44
+44
+Housings_QFP
+LQFP-48_7x7mm_Pitch0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+Housings_QFP
+LQFP-52-1EP_10x10mm_Pitch0.65mm
+LQFP 52 CASE 848H−01 (see ON Semiconductor 848H-01.PDF)
+QFP 0.65
+0
+68
+53
+Housings_QFP
+LQFP-52_10x10mm_Pitch0.65mm
+144/52/64 LEAD LQFP 10x10 mm (see MICREL LQFP10x10-445264LD-PL-1.pdf)
+QFP 0.65
+0
+52
+52
+Housings_QFP
+LQFP-64-1EP_10x10mm_Pitch0.5mm
+64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf and http://www.nxp.com/files/shared/doc/package_info/98ARH98426A.pdf for EP)
+QFP 0.5
+0
+89
+65
+Housings_QFP
+LQFP-64_7x7mm_Pitch0.4mm
+LQFP64: plastic low profile quad flat package; 64 leads; body 7 x 7 x 1.4 mm(see NXP sot414-1_po.pdf and sot414-1_fr.pdf)
+QFP 0.4
+0
+64
+64
+Housings_QFP
+LQFP-64_10x10mm_Pitch0.5mm
+64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf)
+QFP 0.5
+0
+64
+64
+Housings_QFP
+LQFP-64_14x14mm_Pitch0.8mm
+LQFP64: plastic low profile quad flat package; 64 leads; body 14 x 14 x 1.4 mm(see NXP sot791-1_po.pdf and sot791-1_fr.pdf)
+QFP 0.8
+0
+64
+64
+Housings_QFP
+LQFP-80_10x10mm_Pitch0.4mm
+LQFP80: plastic low profile quad flat package; 80 leads; body 10 x 10  mm (see Intersil q80.10x10.pdf and wiznet W5100_Datasheet_v1.2.7.pdf)
+QFP 0.4
+0
+80
+80
+Housings_QFP
+LQFP-80_12x12mm_Pitch0.5mm
+LQFP80: plastic low profile quad flat package; 80 leads; body 12 x 12 x 1.4 mm (see NXP sot315-1_po.pdf and sot315-1_fr.pdf)
+QFP 0.5
+0
+80
+80
+Housings_QFP
+LQFP-80_14x14mm_Pitch0.65mm
+80-Lead Quad Flatpack, 14x14x1.6mm Body (http://www.analog.com/media/en/technical-documentation/data-sheets/AD9852.pdf)
+QFP 0.65
+0
+80
+80
+Housings_QFP
+LQFP-100_14x14mm_Pitch0.5mm
+LQFP100: plastic low profile quad flat package; 100 leads; body 14 x 14 x 1.4 mm (see NXP sot407-1_po.pdf and sot407-1_fr.pdf)
+QFP 0.5
+0
+100
+100
+Housings_QFP
+LQFP-128_14x14mm_Pitch0.4mm
+128 Lead LQFP 14x14 mm (see MICREL LQFP14x14-128LD-PL-1.pdf)
+QFP 0.4
+0
+128
+128
+Housings_QFP
+LQFP-128_14x20mm_Pitch0.5mm
+LQFP128: plastic low profile quad flat package; 128 leads; body 14 x 20 x 1.4 mm (see NXP sot425-1_po.pdf and sot425-1_fr.pdf)
+QFP 0.5
+0
+128
+128
+Housings_QFP
+LQFP-144_20x20mm_Pitch0.5mm
+144-Lead Plastic Low Profile Quad Flatpack (PL) - 20x20x1.40 mm Body [LQFP], 2.00 mm Footprint (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+144
+144
+Housings_QFP
+LQFP-160_24x24mm_Pitch0.5mm
+LQFP160: plastic low profile quad flat package; 160 leads; body 24 x 24 x 1.4 mm (see NXP HTQFP-HLQFP-LQFP-REFLOW.pdf and sot435-1_po.pdf)
+QFP 0.5
+0
+160
+160
+Housings_QFP
+LQFP-176_20x20mm_Pitch0.4mm
+LQFP 176 / LQFP176 CASE 566DB (see ON Semiconductor 566DB.PDF)
+QFP 0.4
+0
+176
+176
+Housings_QFP
+LQFP-176_24x24mm_Pitch0.5mm
+LQFP176 24x24 CASE 561BD (see ON Semiconductor 561BD.PDF)
+QFP 0.5
+0
+176
+176
+Housings_QFP
+LQFP-208_28x28mm_Pitch0.5mm
+LQFP208; plastic low profile quad flat package; 208 leads; body 28 x 28 x 1.4 mm (see NXP sot459-1_po.pdf and sot459-1_fr.pdf)
+QFP 0.5
+0
+208
+208
+Housings_QFP
+LQFP-216_24x24mm_Pitch0.4mm
+LQFP216 24x24 CASE 561BE (see ON Semiconductor 561BE.PDF)
+QFP 0.4
+0
+216
+216
+Housings_QFP
+PQFP-44_10x10mm_Pitch0.8mm
+44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)
+PQFP 0.8
+0
+44
+44
+Housings_QFP
+PQFP-80_14x20mm_Pitch0.8mm
+PQFP80 14x20 / QIP80E CASE 122BS (see ON Semiconductor 122BS.PDF)
+QFP 0.8
+0
+80
+80
+Housings_QFP
+PQFP-100_14x20mm_Pitch0.65mm
+PQFP100 14x20 / QIP100E CASE 122BV (see ON Semiconductor 122BV.PDF)
+QFP 0.65
+0
+100
+100
+Housings_QFP
+PQFP-112_20x20mm_Pitch0.65mm
+PQFP, 112 pins, 20mm sq body, 0.65mm pitch (http://cache.freescale.com/files/shared/doc/package_info/98ASS23330W.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 112
+0
+112
+112
+Housings_QFP
+PQFP-132_24x24mm_Pitch0.635mm
+PQFP, 132 pins, 24mm sq body, 0.635mm pitch (https://www.intel.com/content/dam/www/public/us/en/documents/packaging-databooks/packaging-chapter-02-databook.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 132
+0
+132
+132
+Housings_QFP
+PQFP-132_24x24mm_Pitch0.635mm_i386
+PQFP, 132 pins, 24mm sq body, 0.635mm pitch, Intel 386EX (https://www.intel.com/content/dam/www/public/us/en/documents/packaging-databooks/packaging-chapter-02-databook.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 132 Intel 386EX
+0
+132
+132
+Housings_QFP
+PQFP-160_28x28mm_Pitch0.65mm
+PQFP, 160 pins, 28mm sq body, 0.65mm pitch (https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/pkgds.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 160
+0
+160
+160
+Housings_QFP
+PQFP-208_28x28mm_Pitch0.5mm
+PQFP, 208 pins, 28mm sq body, 0.5mm pitch (https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/pkgds.pdf, http://www.nxp.com/docs/en/application-note/AN4388.pdf)
+PQFP 208
+0
+208
+208
+Housings_QFP
+PQFP-256_28x28mm_Pitch0.4mm
+PQFP256 28x28 / QFP256J CASE 122BX (see ON Semiconductor 122BX.PDF)
+QFP 0.4
+0
+256
+256
+Housings_QFP
+TQFP-32_7x7mm_Pitch0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
+Housings_QFP
+TQFP-44-1EP_10x10mm_Pitch0.8mm
+44-Lead Plastic Thin Quad Flatpack (MW) - 10x10x1.0 mm Body [TQFP] With 4.5x4.5 mm Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+60
+45
+Housings_QFP
+TQFP-44_10x10mm_Pitch0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+Housings_QFP
+TQFP-48-1EP_7x7mm_Pitch0.5mm
+48-Lead Thin Quad Flatpack (PT) - 7x7x1.0 mm Body [TQFP] With Exposed Pad (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+52
+49
+Housings_QFP
+TQFP-48_7x7mm_Pitch0.5mm
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+Housings_QFP
+TQFP-64-1EP_10x10mm_Pitch0.5mm
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] thermal pad
+QFP 0.5 
+0
+65
+65
+Housings_QFP
+TQFP-64_7x7mm_Pitch0.4mm
+TQFP64 7x7, 0.4P CASE 932BH (see ON Semiconductor 932BH.PDF)
+QFP 0.4
+0
+64
+64
+Housings_QFP
+TQFP-64_10x10mm_Pitch0.5mm
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+64
+64
+Housings_QFP
+TQFP-64_14x14mm_Pitch0.8mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+64
+64
+Housings_QFP
+TQFP-80-1EP_14x14mm_Pitch0.65mm
+80-Lead Plastic Thin Quad Flatpack (PF) - 14x14mm body, 9.5mm sq thermal pad (http://www.analog.com/media/en/technical-documentation/data-sheets/AD9852.pdf)
+QFP 0.65
+0
+85
+81
+Housings_QFP
+TQFP-80_12x12mm_Pitch0.5mm
+80-Lead Plastic Thin Quad Flatpack (PT) - 12x12x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+80
+80
+Housings_QFP
+TQFP-80_14x14mm_Pitch0.65mm
+80-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.65
+0
+80
+80
+Housings_QFP
+TQFP-100-1EP_14x14mm_Pitch0.5mm
+100-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body 2.00 mm Footprint with Exposed Pad [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+117
+101
+Housings_QFP
+TQFP-100_12x12mm_Pitch0.4mm
+100-Lead Plastic Thin Quad Flatpack (PT) - 12x12x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.4
+0
+100
+100
+Housings_QFP
+TQFP-100_14x14mm_Pitch0.5mm
+100-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+100
+100
+Housings_QFP
+TQFP-120_14x14mm_Pitch0.4mm
+TQFP120 14x14 / TQFP120 CASE 932AZ (see ON Semiconductor 932AZ.PDF)
+QFP 0.4
+0
+120
+120
+Housings_QFP
+TQFP-128_14x14mm_Pitch0.4mm
+TQFP128 14x14 / TQFP128 CASE 932BB (see ON Semiconductor 932BB.PDF)
+QFP 0.4
+0
+128
+128
+Housings_QFP
+TQFP-144_16x16mm_Pitch0.4mm
+144-Lead Plastic Thin Quad Flatpack (PH) - 16x16x1 mm Body, 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.4
+0
+144
+144
+Housings_QFP
+TQFP-144_20x20mm_Pitch0.5mm
+P/PG-TQFP-144-2, -3, -7 (see MAXIM 21-0087.PDF and 90-0144.PDF)
+QFP 0.5
+0
+144
+144
+Kailh_Choc
+KailhChoc-1.5U
+
+
+0
+4
+4
+Kailh_Choc
+KailhChoc-1.25U
+
+
+0
+4
+4
+Kailh_Choc
+KailhChoc-1.75U
+
+
+0
+4
+4
+Kailh_Choc
+KailhChoc-1U
+
+
+0
+4
+4
+MX_Alps_Hybrid
+MX-1.5U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1.5U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1.5U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-1.5U-Vertical
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1.25U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1.25U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1.25U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-1.75U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1.75U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1.75U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-1U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-1U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2.5U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.5U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.5U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.5U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2.5U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.5U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2.25U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.25U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.25U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.25U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2.25U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.25U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2.75U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.75U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.75U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.75U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2.75U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2.75U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-2U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-2U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-3U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-3U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-3U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-3U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-3U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-3U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6.5U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.5U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.5U-FLIPPED-NoStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.5U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.5U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6.5U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.5U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6.25U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.25U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.25U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.25U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6.25U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6.25U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-7UOverlay
+
+
+0
+0
+0
+MX_Alps_Hybrid
+MX-6U-7UOverlay-ReversedStabilizers
+
+
+0
+0
+0
+MX_Alps_Hybrid
+MX-6U-Centered
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-Centered-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-Centered-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-Centered-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6U-Centered-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-Centered-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-6U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-6U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-7U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-7U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-7U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-7U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-7U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-7U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-8U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-8U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-8U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-8U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-8U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-8U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-9U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-9U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-9U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-9U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-9U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-9U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-10U
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-10U-FLIPPED
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-10U-FLIPPED-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-10U-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-10U-ReversedStabilizers
+
+
+0
+6
+4
+MX_Alps_Hybrid
+MX-10U-ReversedStabilizers-NoLED
+
+
+0
+4
+2
+MX_Alps_Hybrid
+MX-ISO
+
+
+0
+8
+4
+MX_Alps_Hybrid
+MX-ISO-FLIPPED
+
+
+0
+8
+4
+MX_Alps_Hybrid
+MX-ISO-FLIPPED-ReversedStabilizers
+
+
+0
+8
+4
+MX_Alps_Hybrid
+MX-ISO-ReversedStabilizers
+
+
+0
+8
+4
+MX_Alps_Hybrid
+MX-LEDONLY
+
+
+0
+2
+2
+MX_Alps_Hybrid
+MX-LEDONLY-FLIPPED
+
+
+0
+2
+2
+MX_Only
+MXOnly-1.5U
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.5U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.5U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-1.5U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-1.5U-Vertical
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.5U-Vertical-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-1.25U
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.25U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.25U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-1.25U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-1.75U
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.75U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-1.75U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-1.75U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-1U
+
+
+0
+4
+4
+MX_Only
+MXOnly-1U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-1U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-1U-Hotswap-Antishear
+
+
+0
+10
+2
+MX_Only
+MXOnly-1U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.25U
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.25U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.25U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.25U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.75U
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.75U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.75U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.75U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.75U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.75U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-2.75U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2.75U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-2U
+
+
+0
+4
+4
+MX_Only
+MXOnly-2U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-2U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-2U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Only
+MXOnly-2U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-2U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-2U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-3U
+
+
+0
+4
+4
+MX_Only
+MXOnly-3U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-3U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-3U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-3U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-3U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-6.25U
+
+
+0
+4
+4
+MX_Only
+MXOnly-6.25U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-6.25U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-6.25U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-6.25U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Only
+MXOnly-6.25U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-6.25U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-6.25U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-6U
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-6U-Centered-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-Centered-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-6U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-6U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-6U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-7U
+
+
+0
+4
+4
+MX_Only
+MXOnly-7U-FLIPPED
+
+
+0
+4
+4
+MX_Only
+MXOnly-7U-FLIPPED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-7U-Hotswap
+
+
+0
+2
+2
+MX_Only
+MXOnly-7U-Hotswap-ReversedStabilizers
+
+
+0
+2
+2
+MX_Only
+MXOnly-7U-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-7U-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-7U-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-ISO
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-ROTATED
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-ROTATED-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-ISO-ROTATED-ReversedStabilizers-NoLED
+
+
+0
+2
+2
+MX_Only
+MXOnly-ISO-ReversedStabilizers
+
+
+0
+4
+4
+MX_Only
+MXOnly-LEDONLY
+
+
+0
+2
+2
+MX_Only
+MXOnly-LEDONLY-FLIPPED
+
+
+0
+2
+2
+Mounting_Holes
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+Mounting_Holes
+MountingHole_2.2mm_M2_DIN965
+Mounting Hole 2.2mm, no annular, M2, DIN965
+mounting hole 2.2mm no annular m2 din965
+0
+0
+0
+Mounting_Holes
+MountingHole_2.2mm_M2_DIN965_Pad
+Mounting Hole 2.2mm, M2, DIN965
+mounting hole 2.2mm m2 din965
+0
+1
+1
+Mounting_Holes
+MountingHole_2.2mm_M2_ISO7380
+Mounting Hole 2.2mm, no annular, M2, ISO7380
+mounting hole 2.2mm no annular m2 iso7380
+0
+0
+0
+Mounting_Holes
+MountingHole_2.2mm_M2_ISO7380_Pad
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+1
+1
+Mounting_Holes
+MountingHole_2.2mm_M2_ISO14580
+Mounting Hole 2.2mm, no annular, M2, ISO14580
+mounting hole 2.2mm no annular m2 iso14580
+0
+0
+0
+Mounting_Holes
+MountingHole_2.2mm_M2_ISO14580_Pad
+Mounting Hole 2.2mm, M2, ISO14580
+mounting hole 2.2mm m2 iso14580
+0
+1
+1
+Mounting_Holes
+MountingHole_2.2mm_M2_Pad
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+1
+1
+Mounting_Holes
+MountingHole_2.2mm_M2_Pad_Via
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+Mounting_Holes
+MountingHole_2.5mm
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_2.5mm_Pad
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+1
+1
+Mounting_Holes
+MountingHole_2.5mm_Pad_Via
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+9
+1
+Mounting_Holes
+MountingHole_2.7mm
+Mounting Hole 2.7mm, no annular
+mounting hole 2.7mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_2.7mm_M2.5
+Mounting Hole 2.7mm, no annular, M2.5
+mounting hole 2.7mm no annular m2.5
+0
+0
+0
+Mounting_Holes
+MountingHole_2.7mm_M2.5_DIN965
+Mounting Hole 2.7mm, no annular, M2.5, DIN965
+mounting hole 2.7mm no annular m2.5 din965
+0
+0
+0
+Mounting_Holes
+MountingHole_2.7mm_M2.5_DIN965_Pad
+Mounting Hole 2.7mm, M2.5, DIN965
+mounting hole 2.7mm m2.5 din965
+0
+1
+1
+Mounting_Holes
+MountingHole_2.7mm_M2.5_ISO7380
+Mounting Hole 2.7mm, no annular, M2.5, ISO7380
+mounting hole 2.7mm no annular m2.5 iso7380
+0
+0
+0
+Mounting_Holes
+MountingHole_2.7mm_M2.5_ISO7380_Pad
+Mounting Hole 2.7mm, M2.5, ISO7380
+mounting hole 2.7mm m2.5 iso7380
+0
+1
+1
+Mounting_Holes
+MountingHole_2.7mm_M2.5_ISO14580
+Mounting Hole 2.7mm, no annular, M2.5, ISO14580
+mounting hole 2.7mm no annular m2.5 iso14580
+0
+0
+0
+Mounting_Holes
+MountingHole_2.7mm_M2.5_ISO14580_Pad
+Mounting Hole 2.7mm, M2.5, ISO14580
+mounting hole 2.7mm m2.5 iso14580
+0
+1
+1
+Mounting_Holes
+MountingHole_2.7mm_M2.5_Pad
+Mounting Hole 2.7mm, M2.5
+mounting hole 2.7mm m2.5
+0
+1
+1
+Mounting_Holes
+MountingHole_2.7mm_M2.5_Pad_Via
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+9
+1
+Mounting_Holes
+MountingHole_2.7mm_Pad
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+1
+1
+Mounting_Holes
+MountingHole_2.7mm_Pad_Via
+Mounting Hole 2.7mm
+mounting hole 2.7mm
+0
+9
+1
+Mounting_Holes
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+Mounting_Holes
+MountingHole_3.2mm_M3_DIN965
+Mounting Hole 3.2mm, no annular, M3, DIN965
+mounting hole 3.2mm no annular m3 din965
+0
+0
+0
+Mounting_Holes
+MountingHole_3.2mm_M3_DIN965_Pad
+Mounting Hole 3.2mm, M3, DIN965
+mounting hole 3.2mm m3 din965
+0
+1
+1
+Mounting_Holes
+MountingHole_3.2mm_M3_ISO7380
+Mounting Hole 3.2mm, no annular, M3, ISO7380
+mounting hole 3.2mm no annular m3 iso7380
+0
+0
+0
+Mounting_Holes
+MountingHole_3.2mm_M3_ISO7380_Pad
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
+Mounting_Holes
+MountingHole_3.2mm_M3_ISO14580
+Mounting Hole 3.2mm, no annular, M3, ISO14580
+mounting hole 3.2mm no annular m3 iso14580
+0
+0
+0
+Mounting_Holes
+MountingHole_3.2mm_M3_ISO14580_Pad
+Mounting Hole 3.2mm, M3, ISO14580
+mounting hole 3.2mm m3 iso14580
+0
+1
+1
+Mounting_Holes
+MountingHole_3.2mm_M3_Pad
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+Mounting_Holes
+MountingHole_3.2mm_M3_Pad_Via
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+9
+1
+Mounting_Holes
+MountingHole_3.5mm
+Mounting Hole 3.5mm, no annular
+mounting hole 3.5mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_3.5mm_Pad
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+1
+1
+Mounting_Holes
+MountingHole_3.5mm_Pad_Via
+Mounting Hole 3.5mm
+mounting hole 3.5mm
+0
+9
+1
+Mounting_Holes
+MountingHole_3.7mm
+Mounting Hole 3.7mm, no annular
+mounting hole 3.7mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_3.7mm_Pad
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+1
+1
+Mounting_Holes
+MountingHole_3.7mm_Pad_Via
+Mounting Hole 3.7mm
+mounting hole 3.7mm
+0
+9
+1
+Mounting_Holes
+MountingHole_3mm
+Mounting Hole 3mm, no annular
+mounting hole 3mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_3mm_Pad
+Mounting Hole 3mm
+mounting hole 3mm
+0
+1
+1
+Mounting_Holes
+MountingHole_3mm_Pad_Via
+Mounting Hole 3mm
+mounting hole 3mm
+0
+9
+1
+Mounting_Holes
+MountingHole_4.3mm_M4
+Mounting Hole 4.3mm, no annular, M4
+mounting hole 4.3mm no annular m4
+0
+0
+0
+Mounting_Holes
+MountingHole_4.3mm_M4_DIN965
+Mounting Hole 4.3mm, no annular, M4, DIN965
+mounting hole 4.3mm no annular m4 din965
+0
+0
+0
+Mounting_Holes
+MountingHole_4.3mm_M4_DIN965_Pad
+Mounting Hole 4.3mm, M4, DIN965
+mounting hole 4.3mm m4 din965
+0
+1
+1
+Mounting_Holes
+MountingHole_4.3mm_M4_ISO7380
+Mounting Hole 4.3mm, no annular, M4, ISO7380
+mounting hole 4.3mm no annular m4 iso7380
+0
+0
+0
+Mounting_Holes
+MountingHole_4.3mm_M4_ISO7380_Pad
+Mounting Hole 4.3mm, M4, ISO7380
+mounting hole 4.3mm m4 iso7380
+0
+1
+1
+Mounting_Holes
+MountingHole_4.3mm_M4_ISO14580
+Mounting Hole 4.3mm, no annular, M4, ISO14580
+mounting hole 4.3mm no annular m4 iso14580
+0
+0
+0
+Mounting_Holes
+MountingHole_4.3mm_M4_ISO14580_Pad
+Mounting Hole 4.3mm, M4, ISO14580
+mounting hole 4.3mm m4 iso14580
+0
+1
+1
+Mounting_Holes
+MountingHole_4.3mm_M4_Pad
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+1
+1
+Mounting_Holes
+MountingHole_4.3mm_M4_Pad_Via
+Mounting Hole 4.3mm, M4
+mounting hole 4.3mm m4
+0
+9
+1
+Mounting_Holes
+MountingHole_4.3x6.2mm_M4_Pad
+Mounting Hole 4.3x6.2mm, M4
+mounting hole 4.3x6.2mm m4
+0
+1
+1
+Mounting_Holes
+MountingHole_4.3x6.2mm_M4_Pad_Via
+Mounting Hole 4.3x6.2mm, M4
+mounting hole 4.3x6.2mm m4
+0
+17
+1
+Mounting_Holes
+MountingHole_4.5mm
+Mounting Hole 4.5mm, no annular
+mounting hole 4.5mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_4.5mm_Pad
+Mounting Hole 4.5mm
+mounting hole 4.5mm
+0
+1
+1
+Mounting_Holes
+MountingHole_4.5mm_Pad_Via
+Mounting Hole 4.5mm
+mounting hole 4.5mm
+0
+9
+1
+Mounting_Holes
+MountingHole_4mm
+Mounting Hole 4mm, no annular
+mounting hole 4mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_4mm_Pad
+Mounting Hole 4mm
+mounting hole 4mm
+0
+1
+1
+Mounting_Holes
+MountingHole_4mm_Pad_Via
+Mounting Hole 4mm
+mounting hole 4mm
+0
+9
+1
+Mounting_Holes
+MountingHole_5.3mm_M5
+Mounting Hole 5.3mm, no annular, M5
+mounting hole 5.3mm no annular m5
+0
+0
+0
+Mounting_Holes
+MountingHole_5.3mm_M5_DIN965
+Mounting Hole 5.3mm, no annular, M5, DIN965
+mounting hole 5.3mm no annular m5 din965
+0
+0
+0
+Mounting_Holes
+MountingHole_5.3mm_M5_DIN965_Pad
+Mounting Hole 5.3mm, M5, DIN965
+mounting hole 5.3mm m5 din965
+0
+1
+1
+Mounting_Holes
+MountingHole_5.3mm_M5_ISO7380
+Mounting Hole 5.3mm, no annular, M5, ISO7380
+mounting hole 5.3mm no annular m5 iso7380
+0
+0
+0
+Mounting_Holes
+MountingHole_5.3mm_M5_ISO7380_Pad
+Mounting Hole 5.3mm, M5, ISO7380
+mounting hole 5.3mm m5 iso7380
+0
+1
+1
+Mounting_Holes
+MountingHole_5.3mm_M5_ISO14580
+Mounting Hole 5.3mm, no annular, M5, ISO14580
+mounting hole 5.3mm no annular m5 iso14580
+0
+0
+0
+Mounting_Holes
+MountingHole_5.3mm_M5_ISO14580_Pad
+Mounting Hole 5.3mm, M5, ISO14580
+mounting hole 5.3mm m5 iso14580
+0
+1
+1
+Mounting_Holes
+MountingHole_5.3mm_M5_Pad
+Mounting Hole 5.3mm, M5
+mounting hole 5.3mm m5
+0
+1
+1
+Mounting_Holes
+MountingHole_5.3mm_M5_Pad_Via
+Mounting Hole 5.3mm, M5
+mounting hole 5.3mm m5
+0
+9
+1
+Mounting_Holes
+MountingHole_5.5mm
+Mounting Hole 5.5mm, no annular
+mounting hole 5.5mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_5.5mm_Pad
+Mounting Hole 5.5mm
+mounting hole 5.5mm
+0
+1
+1
+Mounting_Holes
+MountingHole_5.5mm_Pad_Via
+Mounting Hole 5.5mm
+mounting hole 5.5mm
+0
+9
+1
+Mounting_Holes
+MountingHole_5mm
+Mounting Hole 5mm, no annular
+mounting hole 5mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_5mm_Pad
+Mounting Hole 5mm
+mounting hole 5mm
+0
+1
+1
+Mounting_Holes
+MountingHole_5mm_Pad_Via
+Mounting Hole 5mm
+mounting hole 5mm
+0
+9
+1
+Mounting_Holes
+MountingHole_6.4mm_M6
+Mounting Hole 6.4mm, no annular, M6
+mounting hole 6.4mm no annular m6
+0
+0
+0
+Mounting_Holes
+MountingHole_6.4mm_M6_DIN965
+Mounting Hole 6.4mm, no annular, M6, DIN965
+mounting hole 6.4mm no annular m6 din965
+0
+0
+0
+Mounting_Holes
+MountingHole_6.4mm_M6_DIN965_Pad
+Mounting Hole 6.4mm, M6, DIN965
+mounting hole 6.4mm m6 din965
+0
+1
+1
+Mounting_Holes
+MountingHole_6.4mm_M6_ISO7380
+Mounting Hole 6.4mm, no annular, M6, ISO7380
+mounting hole 6.4mm no annular m6 iso7380
+0
+0
+0
+Mounting_Holes
+MountingHole_6.4mm_M6_ISO7380_Pad
+Mounting Hole 6.4mm, M6, ISO7380
+mounting hole 6.4mm m6 iso7380
+0
+1
+1
+Mounting_Holes
+MountingHole_6.4mm_M6_ISO14580
+Mounting Hole 6.4mm, no annular, M6, ISO14580
+mounting hole 6.4mm no annular m6 iso14580
+0
+0
+0
+Mounting_Holes
+MountingHole_6.4mm_M6_ISO14580_Pad
+Mounting Hole 6.4mm, M6, ISO14580
+mounting hole 6.4mm m6 iso14580
+0
+1
+1
+Mounting_Holes
+MountingHole_6.4mm_M6_Pad
+Mounting Hole 6.4mm, M6
+mounting hole 6.4mm m6
+0
+1
+1
+Mounting_Holes
+MountingHole_6.4mm_M6_Pad_Via
+Mounting Hole 6.4mm, M6
+mounting hole 6.4mm m6
+0
+9
+1
+Mounting_Holes
+MountingHole_6.5mm
+Mounting Hole 6.5mm, no annular
+mounting hole 6.5mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_6.5mm_Pad
+Mounting Hole 6.5mm
+mounting hole 6.5mm
+0
+1
+1
+Mounting_Holes
+MountingHole_6.5mm_Pad_Via
+Mounting Hole 6.5mm
+mounting hole 6.5mm
+0
+9
+1
+Mounting_Holes
+MountingHole_6mm
+Mounting Hole 6mm, no annular
+mounting hole 6mm no annular
+0
+0
+0
+Mounting_Holes
+MountingHole_6mm_Pad
+Mounting Hole 6mm
+mounting hole 6mm
+0
+1
+1
+Mounting_Holes
+MountingHole_6mm_Pad_Via
+Mounting Hole 6mm
+mounting hole 6mm
+0
+9
+1
+Mounting_Holes
+MountingHole_8.4mm_M8
+Mounting Hole 8.4mm, no annular, M8
+mounting hole 8.4mm no annular m8
+0
+0
+0
+Mounting_Holes
+MountingHole_8.4mm_M8_Pad
+Mounting Hole 8.4mm, M8
+mounting hole 8.4mm m8
+0
+1
+1
+Mounting_Holes
+MountingHole_8.4mm_M8_Pad_Via
+Mounting Hole 8.4mm, M8
+mounting hole 8.4mm m8
+0
+9
+1
+Resistors_SMD
+R_0201
+Resistor SMD 0201, reflow soldering, Vishay (see crcw0201e3.pdf)
+resistor 0201
+0
+2
+2
+Resistors_SMD
+R_0201_NoSilk
+Resistor SMD 0201, reflow soldering, Vishay (see crcw0201e3.pdf)
+resistor 0201
+0
+2
+2
+Resistors_SMD
+R_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+Resistors_SMD
+R_0402_NoSilk
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+Resistors_SMD
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+Resistors_SMD
+R_0603_HandSoldering
+Resistor SMD 0603, hand soldering
+resistor 0603
+0
+2
+2
+Resistors_SMD
+R_0612
+Resistor SMD 0612, reflow solderinG
+resistor 0612 
+0
+2
+2
+Resistors_SMD
+R_0805
+Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0805
+0
+2
+2
+Resistors_SMD
+R_0805_HandSoldering
+Resistor SMD 0805, hand soldering
+resistor 0805
+0
+2
+2
+Resistors_SMD
+R_1206
+Resistor SMD 1206, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1206
+0
+2
+2
+Resistors_SMD
+R_1206_HandSoldering
+Resistor SMD 1206, hand soldering
+resistor 1206
+0
+2
+2
+Resistors_SMD
+R_1210
+Resistor SMD 1210, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1210
+0
+2
+2
+Resistors_SMD
+R_1210_HandSoldering
+Resistor SMD 1210, hand soldering
+resistor 1210
+0
+2
+2
+Resistors_SMD
+R_1218
+Resistor SMD 1218, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 1218
+0
+2
+2
+Resistors_SMD
+R_1218_HandSoldering
+Resistor SMD 1218, hand soldering
+resistor 1218
+0
+2
+2
+Resistors_SMD
+R_1508_Wide
+Resistor SMD 1508 wide package
+resistor 1508
+0
+2
+2
+Resistors_SMD
+R_1812
+Resistor SMD 1812, flow soldering, Panasonic (see ERJ12)
+resistor 1812
+0
+2
+2
+Resistors_SMD
+R_1812_HandSoldering
+Resistor SMD 1812, hand soldering, Panasonic (see ERJ12)
+resistor 1812
+0
+2
+2
+Resistors_SMD
+R_2010
+Resistor SMD 2010, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 2010
+0
+2
+2
+Resistors_SMD
+R_2010_HandSoldering
+Resistor SMD 2010, hand soldering
+resistor 2010
+0
+2
+2
+Resistors_SMD
+R_2512
+Resistor SMD 2512, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 2512
+0
+2
+2
+Resistors_SMD
+R_2512_HandSoldering
+Resistor SMD 2512, hand soldering
+resistor 2512
+0
+2
+2
+Resistors_SMD
+R_2816
+Resistor SMD 2816, reflow soldering, Vishay (see WSL-VISHAY.PDF)
+resistor 2816
+0
+2
+2
+Resistors_SMD
+R_2816_HandSoldering
+Resistor SMD 2816, hand soldering, Vishay (see WSL-VISHAY.PDF)
+resistor 2816
+0
+2
+2
+Resistors_SMD
+R_Array_Concave_2x0603
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
+resistor array
+0
+4
+4
+Resistors_SMD
+R_Array_Concave_4x0402
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA04P (see cra04p.pdf)
+resistor array
+0
+8
+8
+Resistors_SMD
+R_Array_Concave_4x0603
+Thick Film Chip Resistor Array, Wave soldering, Vishay CRA06P (see cra06p.pdf)
+resistor array
+0
+8
+8
+Resistors_SMD
+R_Array_Convex_2x0402
+Chip Resistor Network, ROHM MNR02 (see mnr_g.pdf)
+resistor array
+0
+4
+4
+Resistors_SMD
+R_Array_Convex_2x0603
+Chip Resistor Network, ROHM MNR12 (see mnr_g.pdf)
+resistor array
+0
+4
+4
+Resistors_SMD
+R_Array_Convex_2x1206
+Chip Resistor Network, ROHM MNR32 (see mnr_g.pdf)
+resistor array
+0
+4
+4
+Resistors_SMD
+R_Array_Convex_4x0402
+Chip Resistor Network, ROHM MNR04 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+Resistors_SMD
+R_Array_Convex_4x0603
+Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+Resistors_SMD
+R_Array_Convex_4x1206
+Chip Resistor Network, ROHM MNR34 (see mnr_g.pdf)
+resistor array
+0
+8
+8
+Resistors_SMD
+R_Array_Convex_5x0603
+Chip Resistor Network, ROHM MNR15 (see mnr_g.pdf)
+resistor array
+0
+10
+10
+Resistors_SMD
+R_Array_Convex_5x1206
+Chip Resistor Network, ROHM MNR35 (see mnr_g.pdf)
+resistor array
+0
+10
+10
+Resistors_SMD
+R_Array_Convex_8x0602
+Chip Resistor Network, ROHM MNR18 (see mnr_g.pdf)
+resistor array
+0
+16
+16
+Resistors_SMD
+R_Cat16-2
+SMT resistor net, Bourns CAT16 series, 2 way
+SMT resistor net Bourns CAT16 series 2 way
+0
+4
+4
+Resistors_SMD
+R_Cat16-4
+SMT resistor net, Bourns CAT16 series, 4 way
+SMT resistor net Bourns CAT16 series 4 way
+0
+8
+8
+Resistors_SMD
+R_Cat16-8
+SMT resistor net, Bourns CAT16 series, 8 way
+SMT resistor net Bourns CAT16 series 8 way
+0
+16
+16
+Resistors_SMD
+R_MELF_MMB-0207
+Resistor, MELF, MMB-0207, http://www.vishay.com/docs/28713/melfprof.pdf
+MELF Resistor
+0
+2
+2
+Resistors_SMD
+R_MicroMELF_MMU-0102
+Resistor, MicroMELF, MMU-0102, http://www.vishay.com/docs/28713/melfprof.pdf
+MicroMELF Resistor
+0
+2
+2
+Resistors_SMD
+R_MiniMELF_MMA-0204
+Resistor, MiniMELF, MMA-0204, http://www.vishay.com/docs/28713/melfprof.pdf
+MiniMELF Resistor
+0
+2
+2
+Type-C
+12401598E4#2A
+
+
+0
+28
+28
+Type-C
+HRO-TYPE-C-31-M-12
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-12-HandSoldering
+
+
+0
+16
+13
+Type-C
+HRO-TYPE-C-31-M-13
+
+
+0
+16
+13
+Type-C
+USB_C_GCT_USB4085
+
+
+0
+20
+17
+Type-C
+Wurth-632723300011
+
+
+0
+32
+27
+Type-C
+Wurth-632723300011-HandSoldering
+
+
+0
+30
+26
+Type-C
+Wurth-632723300011-MaximumExtensionMount
+
+
+0
+32
+27
+Wire_Pads
+SolderWirePad_2x_0-8mmDrill
+
+
+0
+2
+1
+Wire_Pads
+SolderWirePad_2x_1-2mmDrill
+
+
+0
+2
+1
+Wire_Pads
+SolderWirePad_2x_1-5mmDrill
+
+
+0
+2
+1
+Wire_Pads
+SolderWirePad_2x_1mmDrill
+
+
+0
+2
+1
+Wire_Pads
+SolderWirePad_2x_2-5mmDrill
+
+
+0
+2
+1
+Wire_Pads
+SolderWirePad_2x_2mmDrill
+
+
+0
+2
+1
+Wire_Pads
+SolderWirePad_3x_0-8mmDrill
+
+
+0
+3
+1
+Wire_Pads
+SolderWirePad_3x_1-2mmDrill
+
+
+0
+3
+1
+Wire_Pads
+SolderWirePad_3x_1-5mmDrill
+
+
+0
+3
+1
+Wire_Pads
+SolderWirePad_3x_1mmDrill
+
+
+0
+3
+1
+Wire_Pads
+SolderWirePad_3x_2-5mmDrill
+
+
+0
+3
+1
+Wire_Pads
+SolderWirePad_3x_2mmDrill
+
+
+0
+3
+1
+Wire_Pads
+SolderWirePad_4xInline_0-8mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xInline_1-2mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xInline_1-5mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xInline_1mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xInline_2mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xSquare_0-8mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xSquare_1-2mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xSquare_1-5mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xSquare_1mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xSquare_2-5mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xSquare_2mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_4xinLine_2-5mmDrill
+
+
+0
+4
+1
+Wire_Pads
+SolderWirePad_single_0-8mmDrill
+
+
+0
+1
+1
+Wire_Pads
+SolderWirePad_single_1-2mmDrill
+
+
+0
+1
+1
+Wire_Pads
+SolderWirePad_single_1-5mmDrill
+
+
+0
+1
+1
+Wire_Pads
+SolderWirePad_single_1mmDrill
+
+
+0
+1
+1
+Wire_Pads
+SolderWirePad_single_2-5mmDrill
+
+
+0
+1
+1
+Wire_Pads
+SolderWirePad_single_2mmDrill
+
+
+0
+1
+1
+Wire_Pads
+SolderWirePad_single_SMD_5x10mm
+Wire Pad, Square, SMD Pad,  5mm x 10mm,
+MesurementPoint Square SMDPad 5mmx10mm 
+0
+1
+1
 custom
 Kailh_socket_MX_1.00U
 MX-style keyswitch with Kailh socket mount
@@ -139,3 +5319,829 @@ usb-pads
 0
 4
 4
+keebs
+Mx_Alps_100
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_125
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_150
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_175
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_200
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_225
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_275
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_625
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Pro_Micro
+
+
+0
+24
+24
+keebs
+Teensy_20
+
+
+0
+31
+31
+keyboard_parts
+4P4C
+http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
+4P4C, RJ
+0
+6
+6
+keyboard_parts
+ALPS_PLATE_SPRING
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+3
+keyboard_parts
+ALPS_PLATE_SPRING_CUTOUT
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+keyboard_parts
+ALPS_SKCM_CUTOUT
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB256
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB406
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB883
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_LED
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+4
+keyboard_parts
+ALPS_SKCM_reverse_pad
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+keyboard_parts
+AVR_ICSP_3x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+6
+6
+keyboard_parts
+C_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+C_1608_rev2
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+C_3216
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3216_rev2
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3225
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3528
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3528_pol
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_6032
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+DSUB9P
+
+
+0
+11
+10
+keyboard_parts
+D_SC79
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+D_SOD123
+
+
+0
+2
+2
+keyboard_parts
+D_SOD123W_hand
+
+
+0
+2
+2
+keyboard_parts
+D_SOD123_axial
+
+
+0
+6
+2
+keyboard_parts
+D_SOD123_hand
+
+
+0
+2
+2
+keyboard_parts
+D_axial
+
+
+0
+2
+2
+keyboard_parts
+FA-238
+
+
+0
+4
+3
+keyboard_parts
+HC-49_SMT
+
+
+0
+2
+2
+keyboard_parts
+HHKB_JP_HRS_DF14_15P
+http://www.mouser.com/ds/2/185/e53800017-12550.pdf
+HHKB JP, HRS, Hirose, DF14, 15P
+0
+17
+17
+keyboard_parts
+HHKB_PRO2_ZH13
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+HHKB pro2, JST, ZH
+0
+15
+15
+keyboard_parts
+HHKB_PRO2_ZH13_TH
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+JST ZH 13 HHKB pro2
+0
+13
+13
+keyboard_parts
+HHKB_PRO_PH15
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST PH 15 HHKB PRO
+0
+15
+15
+keyboard_parts
+HOLE_M2.6
+
+
+0
+1
+1
+keyboard_parts
+HOLE_M3
+
+
+0
+1
+1
+keyboard_parts
+HRS_DF14_20P
+http://www.mouser.com/ds/2/185/e53800017-12550.pdf
+HHKB JP, HRS, Hirose, DF14, 15P
+0
+22
+22
+keyboard_parts
+JST_PH2_SMT
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST, PH, Lipo, battery
+0
+4
+3
+keyboard_parts
+JST_PH2_SMT_TH
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST, PH, Lipo, battery
+0
+6
+3
+keyboard_parts
+JST_PH2_TH
+
+JST, PH2, Lipo
+0
+2
+2
+keyboard_parts
+LED_0805
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+keyboard_parts
+LED_2012_HSOL
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+keyboard_parts
+LED_3020_REFLOW
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+keyboard_parts
+LED_3025_DUAL
+
+
+0
+4
+4
+keyboard_parts
+LED_TH
+LED 3mm - Lead pitch 100mil (2,54mm)
+LED led 3mm 3MM 100mil 2,54mm
+0
+2
+2
+keyboard_parts
+LED_TH_BIVAR
+LED 3mm - Lead pitch 100mil (2,54mm)
+LED led 3mm 3MM 100mil 2,54mm
+0
+2
+2
+keyboard_parts
+LTC4054
+
+Lipo charger
+0
+5
+5
+keyboard_parts
+L_6x6MM
+
+
+0
+2
+2
+keyboard_parts
+L_7x7MM
+
+
+0
+2
+2
+keyboard_parts
+MINI_DIN_8
+
+
+0
+11
+9
+keyboard_parts
+MOS_FET_SOT23-3_HSOL
+SOT23
+
+0
+3
+3
+keyboard_parts
+PIN_1
+
+CONN pin 1 circle
+0
+1
+1
+keyboard_parts
+PIN_1_SQUARE
+
+CONN pin 1 square
+0
+1
+1
+keyboard_parts
+PPTC_nano
+
+
+0
+2
+2
+keyboard_parts
+PTC_3225
+
+
+0
+2
+2
+keyboard_parts
+Poker_oval_hole
+
+
+0
+1
+0
+keyboard_parts
+Poker_side_edge_long
+
+
+0
+1
+0
+keyboard_parts
+QFP32
+
+
+0
+32
+32
+keyboard_parts
+QFP32_reflow
+http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
+
+0
+32
+32
+keyboard_parts
+QFP44
+
+
+0
+44
+44
+keyboard_parts
+QFP44_reflow
+http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
+
+0
+44
+44
+keyboard_parts
+RN42
+
+
+0
+32
+32
+keyboard_parts
+R_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+R_1608_NOGUIDE
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+R_1608_rev2
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+R_2012
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+SLP3-200-100-F
+
+
+0
+0
+0
+keyboard_parts
+SM_3216_POL
+
+
+0
+2
+2
+keyboard_parts
+SOLDER_JUMPER_2
+
+solder jumper bridge configuration
+0
+2
+2
+keyboard_parts
+SOLDER_JUMPER_2_WIRED
+
+solder jumper bridge configuration
+0
+3
+1
+keyboard_parts
+SOLDER_JUMPER_3
+
+solder jumper bridge configuration
+0
+3
+3
+keyboard_parts
+SOT23-3_HSOL
+SOT23
+
+0
+3
+3
+keyboard_parts
+SOT23-5_HSOL
+SOT23
+
+0
+5
+5
+keyboard_parts
+SOT23-6_HSOL
+SOT23
+
+0
+6
+6
+keyboard_parts
+SW_ALPS_SKRP
+
+
+0
+4
+2
+keyboard_parts
+SW_ALPS_SKSG
+
+
+0
+6
+4
+keyboard_parts
+SW_ALPS_SSAA
+
+
+0
+8
+8
+keyboard_parts
+SW_MINI_SLIDE
+
+
+0
+6
+6
+keyboard_parts
+SW_TACT_TH_HORIZ
+http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
+ALPS SKHH tactile switch
+0
+4
+4
+keyboard_parts
+SW_TACT_TH_HORIZ_LOW
+http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
+ALPS SKHLL low tactile switch
+0
+4
+4
+keyboard_parts
+USB_A
+
+
+0
+6
+5
+keyboard_parts
+USB_A_PLUG
+
+
+0
+8
+6
+keyboard_parts
+USB_microB
+USB microB hirose ZX62R-B-5P
+USB micorB hirose
+0
+11
+6
+keyboard_parts
+USB_miniB
+http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+USB miniB hirose
+0
+9
+9
+keyboard_parts
+USB_miniB_hirose_5S8
+USB miniB hirose UX60SC-MB-5S8
+USB miniB hirose through hole UX60SC-MB-5S8
+0
+9
+6
+keyboard_parts
+USB_miniB_hirose_5ST
+USB miniB hirose UX60SC_MB_5ST
+USB miniB hirose new
+0
+7
+6
+keyboard_parts
+USB_miniB_hirose_5ST_hand
+USB miniB hirose UX60SC_MB_5ST
+USB miniB hirose new
+0
+7
+6
+keyboard_parts
+WT12_bluegiga
+
+BlueGiga, WT12, Bluetooth
+0
+31
+31
+keyboard_parts
+XTAL_HC_49_TH
+
+
+0
+2
+2
+keyboard_parts
+tmk2016
+
+
+0
+0
+0
+keyboard_parts
+tmk_logo
+
+
+0
+0
+0
+keyswitches
+Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX_optional
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_MX_optional_platemount
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_MX_optional_reversible
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+8
+2
+keyswitches
+Kailh_socket_MX_optional_reversible_platemount
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+8
+2
+keyswitches
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX_reversible
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_MX_reversible_platemount
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+keyswitches
+Kailh_socket_PG1350_optional
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+keyswitches
+Kailh_socket_PG1350_optional_reversible
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
+kailh,choc
+0
+7
+2
+keyswitches
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+keyswitches
+SW_MX
+MX-style keyswitch
+MX,cherry,gateron,kailh
+0
+2
+2
+keyswitches
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+keyswitches
+SW_MX_reversible_minimal
+MX-style keyswitch, reversible, without pcb-mount holes
+MX,cherry,gateron,kailh
+0
+4
+2
+keyswitches
+SW_PG1350
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+2
+2
+keyswitches
+SW_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+3
+2
+keyswitches
+SW_PG1350_reversible_rotatable
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
+kailh,choc
+0
+6
+2
+keyswitches
+Stabilizer_MX_2u
+MX-style stabilizer mount
+MX,cherry,gateron,kailh,pg1511,stabilizer,stab
+0
+0
+0
