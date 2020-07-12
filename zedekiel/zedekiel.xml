@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/jonas/code/project-zedekiel/zedekiel/zedekiel.sch</source>
-    <date>Sat 11 Jul 2020 05:43:43 PM CEST</date>
-    <tool>Eeschema 5.1.6</tool>
+    <source>C:\Users\jonas\Desktop\project-zedekiel\pcb\zedekiel.sch</source>
+    <date>12.07.2020 16:15:55</date>
+    <tool>Eeschema (5.1.4)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -22,7 +22,7 @@
     <comp ref="SW1">
       <value>SW_PUSH</value>
       <footprint>custom:pad-button</footprint>
-      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <libsource lib="zedekiel-rescue" part="SW_PUSH-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE97D58</tstamp>
     </comp>
@@ -109,7 +109,7 @@
       <fields>
         <field name="LCSC">C112572</field>
       </fields>
-      <libsource lib="keyboard_parts" part="XTAL" description=""/>
+      <libsource lib="zedekiel-rescue" part="XTAL-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE18841</tstamp>
     </comp>
@@ -248,7 +248,7 @@
     <comp ref="K13">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCE01EA</tstamp>
     </comp>
@@ -266,7 +266,7 @@
     <comp ref="K14">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCE01F6</tstamp>
     </comp>
@@ -284,7 +284,7 @@
     <comp ref="K15">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.75U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E5DC</tstamp>
     </comp>
@@ -302,7 +302,7 @@
     <comp ref="K16">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E5E8</tstamp>
     </comp>
@@ -320,7 +320,7 @@
     <comp ref="K17">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E5F4</tstamp>
     </comp>
@@ -338,7 +338,7 @@
     <comp ref="K18">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E600</tstamp>
     </comp>
@@ -356,7 +356,7 @@
     <comp ref="K19">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E60C</tstamp>
     </comp>
@@ -374,7 +374,7 @@
     <comp ref="K20">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E618</tstamp>
     </comp>
@@ -392,7 +392,7 @@
     <comp ref="K21">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E624</tstamp>
     </comp>
@@ -410,7 +410,7 @@
     <comp ref="K22">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E630</tstamp>
     </comp>
@@ -428,7 +428,7 @@
     <comp ref="K23">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E63C</tstamp>
     </comp>
@@ -446,7 +446,7 @@
     <comp ref="K24">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E648</tstamp>
     </comp>
@@ -464,7 +464,7 @@
     <comp ref="K25">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E654</tstamp>
     </comp>
@@ -482,7 +482,7 @@
     <comp ref="K26">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E660</tstamp>
     </comp>
@@ -500,7 +500,7 @@
     <comp ref="K27">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E66C</tstamp>
     </comp>
@@ -518,7 +518,7 @@
     <comp ref="K28">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_2.25U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E678</tstamp>
     </comp>
@@ -536,7 +536,7 @@
     <comp ref="K29">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_2.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71848</tstamp>
     </comp>
@@ -554,7 +554,7 @@
     <comp ref="K30">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71854</tstamp>
     </comp>
@@ -572,7 +572,7 @@
     <comp ref="K31">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71860</tstamp>
     </comp>
@@ -590,7 +590,7 @@
     <comp ref="K32">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD7186C</tstamp>
     </comp>
@@ -608,7 +608,7 @@
     <comp ref="K33">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71878</tstamp>
     </comp>
@@ -626,7 +626,7 @@
     <comp ref="K34">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71884</tstamp>
     </comp>
@@ -644,7 +644,7 @@
     <comp ref="K35">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71890</tstamp>
     </comp>
@@ -662,7 +662,7 @@
     <comp ref="K36">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD7189C</tstamp>
     </comp>
@@ -680,7 +680,7 @@
     <comp ref="K37">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718A8</tstamp>
     </comp>
@@ -698,7 +698,7 @@
     <comp ref="K38">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718B4</tstamp>
     </comp>
@@ -716,7 +716,7 @@
     <comp ref="K39">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718C0</tstamp>
     </comp>
@@ -734,7 +734,7 @@
     <comp ref="K40">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718CC</tstamp>
     </comp>
@@ -752,7 +752,7 @@
     <comp ref="K41">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718D8</tstamp>
     </comp>
@@ -770,7 +770,7 @@
     <comp ref="K42">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_2.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718E4</tstamp>
     </comp>
@@ -799,7 +799,7 @@
     <comp ref="K44">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB0A</tstamp>
     </comp>
@@ -817,7 +817,7 @@
     <comp ref="K45">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB16</tstamp>
     </comp>
@@ -835,7 +835,7 @@
     <comp ref="K46">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB22</tstamp>
     </comp>
@@ -853,7 +853,7 @@
     <comp ref="K47">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB2E</tstamp>
     </comp>
@@ -871,7 +871,7 @@
     <comp ref="K48">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB3A</tstamp>
     </comp>
@@ -889,7 +889,7 @@
     <comp ref="K49">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB46</tstamp>
     </comp>
@@ -907,7 +907,7 @@
     <comp ref="K50">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB52</tstamp>
     </comp>
@@ -925,7 +925,7 @@
     <comp ref="K51">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB5E</tstamp>
     </comp>
@@ -943,7 +943,7 @@
     <comp ref="K52">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB6A</tstamp>
     </comp>
@@ -961,7 +961,7 @@
     <comp ref="K53">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB76</tstamp>
     </comp>
@@ -979,7 +979,7 @@
     <comp ref="K54">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB82</tstamp>
     </comp>
@@ -997,7 +997,7 @@
     <comp ref="K55">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_2.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB8E</tstamp>
     </comp>
@@ -1015,7 +1015,7 @@
     <comp ref="K56">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.50U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB9A</tstamp>
     </comp>
@@ -1033,7 +1033,7 @@
     <comp ref="K57">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_2.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7DD8</tstamp>
     </comp>
@@ -1051,7 +1051,7 @@
     <comp ref="K58">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.25U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7DE4</tstamp>
     </comp>
@@ -1069,7 +1069,7 @@
     <comp ref="K59">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7DF0</tstamp>
     </comp>
@@ -1087,7 +1087,7 @@
     <comp ref="K60">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_2.25U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7DFC</tstamp>
     </comp>
@@ -1105,7 +1105,7 @@
     <comp ref="K61">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.25U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E08</tstamp>
     </comp>
@@ -1123,7 +1123,7 @@
     <comp ref="K62">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.25U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E14</tstamp>
     </comp>
@@ -1141,7 +1141,7 @@
     <comp ref="K63">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.25U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E20</tstamp>
     </comp>
@@ -1159,7 +1159,7 @@
     <comp ref="K64">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_2.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E2C</tstamp>
     </comp>
@@ -1177,7 +1177,7 @@
     <comp ref="K65">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.25U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E38</tstamp>
     </comp>
@@ -1195,7 +1195,7 @@
     <comp ref="K66">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.50U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E74</tstamp>
     </comp>
@@ -1290,91 +1290,91 @@
     <comp ref="K12">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FF6</tstamp>
     </comp>
     <comp ref="K11">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FEA</tstamp>
     </comp>
     <comp ref="K10">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FDE</tstamp>
     </comp>
     <comp ref="K9">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FD2</tstamp>
     </comp>
     <comp ref="K8">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB47BE</tstamp>
     </comp>
     <comp ref="K7">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB47B2</tstamp>
     </comp>
     <comp ref="K6">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB47A6</tstamp>
     </comp>
     <comp ref="K5">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB479A</tstamp>
     </comp>
     <comp ref="K4">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC9CEA0</tstamp>
     </comp>
     <comp ref="K3">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC8811E</tstamp>
     </comp>
     <comp ref="K2">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.00U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC740E6</tstamp>
     </comp>
     <comp ref="K1">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.50U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC48A31</tstamp>
     </comp>
     <comp ref="K43">
       <value>KEYSW</value>
       <footprint>custom:Kailh_socket_MX_1.50U</footprint>
-      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <libsource lib="zedekiel-rescue" part="KEYSW-keyboard_parts" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DAFE</tstamp>
     </comp>
@@ -1431,7 +1431,6 @@
     <libpart lib="Diode" part="1N4148WS">
       <aliases>
         <alias>1N4448WS</alias>
-        <alias>BAS316</alias>
       </aliases>
       <description>75V 0.15A Fast switching Diode, SOD-323</description>
       <docs>https://www.vishay.com/docs/85751/1n4148ws.pdf</docs>
@@ -1532,30 +1531,30 @@
         <pin num="13" name="SHIELD" type="input"/>
       </pins>
     </libpart>
-    <libpart lib="keyboard_parts" part="KEYSW">
+    <libpart lib="zedekiel-rescue" part="KEYSW-keyboard_parts">
       <fields>
         <field name="Reference">K?</field>
-        <field name="Value">KEYSW</field>
+        <field name="Value">KEYSW-keyboard_parts</field>
       </fields>
       <pins>
         <pin num="1" name="~" type="passive"/>
         <pin num="2" name="~" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="keyboard_parts" part="SW_PUSH">
+    <libpart lib="zedekiel-rescue" part="SW_PUSH-keyboard_parts">
       <fields>
         <field name="Reference">SW</field>
-        <field name="Value">SW_PUSH</field>
+        <field name="Value">SW_PUSH-keyboard_parts</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
         <pin num="2" name="2" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="keyboard_parts" part="XTAL">
+    <libpart lib="zedekiel-rescue" part="XTAL-keyboard_parts">
       <fields>
         <field name="Reference">X</field>
-        <field name="Value">XTAL</field>
+        <field name="Value">XTAL-keyboard_parts</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="passive"/>
@@ -1565,19 +1564,19 @@
   </libparts>
   <libraries>
     <library logical="Device">
-      <uri>/usr/share/kicad/library/Device.lib</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
     </library>
     <library logical="Diode">
-      <uri>/usr/share/kicad/library/Diode.lib</uri>
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
     </library>
     <library logical="atmega16u4-au_modified">
-      <uri>/home/jonas/code/project-zedekiel/zedekiel/library/custom/atmega16u4-au_modified.lib</uri>
+      <uri>C:\Users\jonas\Desktop\project-zedekiel\pcb/library/custom/atmega16u4-au_modified.lib</uri>
     </library>
     <library logical="hro-type-c_modified">
-      <uri>/home/jonas/code/project-zedekiel/zedekiel/library/custom/hro-type-c_modified.lib</uri>
+      <uri>C:\Users\jonas\Desktop\project-zedekiel\pcb/library/custom/hro-type-c_modified.lib</uri>
     </library>
-    <library logical="keyboard_parts">
-      <uri>/home/jonas/code/project-zedekiel/zedekiel/library/kicad_lib_tmk/keyboard_parts.lib</uri>
+    <library logical="zedekiel-rescue">
+      <uri>C:\Users\jonas\Desktop\project-zedekiel\pcb/zedekiel-rescue.lib</uri>
     </library>
   </libraries>
   <nets>
