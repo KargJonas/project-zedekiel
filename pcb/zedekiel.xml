@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>/home/jonas/code/project-zedekiel/pcb/zedekiel.sch</source>
-    <date>Wed 08 Jul 2020 12:50:32 PM CEST</date>
+    <source>/home/jonas/code/project-zedekiel/zedekiel/zedekiel.sch</source>
+    <date>Sat 11 Jul 2020 05:43:43 PM CEST</date>
     <tool>Eeschema 5.1.6</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -30,6 +30,9 @@
       <value>10K</value>
       <footprint>Resistors_SMD:R_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EEB521E</tstamp>
@@ -38,6 +41,9 @@
       <value>22</value>
       <footprint>Resistors_SMD:R_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EF0231F</tstamp>
@@ -46,6 +52,9 @@
       <value>22</value>
       <footprint>Resistors_SMD:R_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23345</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EF02C63</tstamp>
@@ -54,6 +63,9 @@
       <value>ATmega16U4-AU_(modified)</value>
       <footprint>Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C44854</field>
+      </fields>
       <libsource lib="atmega16u4-au_modified" part="ATmega16U4-AU_(modified)" description="16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, TQFP-44"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE0FFDB</tstamp>
@@ -62,6 +74,9 @@
       <value>10K</value>
       <footprint>Resistors_SMD:R_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE0316E</tstamp>
@@ -70,6 +85,9 @@
       <value>22pF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1653</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE1E139</tstamp>
@@ -78,6 +96,9 @@
       <value>22pF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1653</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE1D2DD</tstamp>
@@ -85,6 +106,9 @@
     <comp ref="X1">
       <value>16MHz</value>
       <footprint>Crystals:Crystal_SMD_5032-2pin_5.0x3.2mm</footprint>
+      <fields>
+        <field name="LCSC">C112572</field>
+      </fields>
       <libsource lib="keyboard_parts" part="XTAL" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE18841</tstamp>
@@ -93,6 +117,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC5D18D</tstamp>
@@ -101,6 +128,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC740EC</tstamp>
@@ -109,6 +139,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC88124</tstamp>
@@ -117,6 +150,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FC9CEA6</tstamp>
@@ -125,6 +161,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB47A0</tstamp>
@@ -133,6 +172,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB47AC</tstamp>
@@ -141,6 +183,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB47B8</tstamp>
@@ -149,6 +194,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCB47C4</tstamp>
@@ -157,6 +205,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FD8</tstamp>
@@ -165,6 +216,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FE4</tstamp>
@@ -173,6 +227,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FF0</tstamp>
@@ -181,6 +238,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCC9FFC</tstamp>
@@ -196,6 +256,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCE01F0</tstamp>
@@ -211,6 +274,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FCE01FC</tstamp>
@@ -226,6 +292,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E5E2</tstamp>
@@ -241,6 +310,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E5EE</tstamp>
@@ -256,6 +328,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E5FA</tstamp>
@@ -271,6 +346,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E606</tstamp>
@@ -286,6 +364,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E612</tstamp>
@@ -301,6 +382,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E61E</tstamp>
@@ -316,6 +400,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E62A</tstamp>
@@ -331,6 +418,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E636</tstamp>
@@ -346,6 +436,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E642</tstamp>
@@ -361,6 +454,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E64E</tstamp>
@@ -376,6 +472,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E65A</tstamp>
@@ -391,6 +490,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E666</tstamp>
@@ -406,6 +508,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E672</tstamp>
@@ -421,6 +526,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD4E67E</tstamp>
@@ -436,6 +544,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD7184E</tstamp>
@@ -451,6 +562,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD7185A</tstamp>
@@ -466,6 +580,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71866</tstamp>
@@ -481,6 +598,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71872</tstamp>
@@ -496,6 +616,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD7187E</tstamp>
@@ -511,6 +634,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD7188A</tstamp>
@@ -526,6 +652,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD71896</tstamp>
@@ -541,6 +670,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718A2</tstamp>
@@ -556,6 +688,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718AE</tstamp>
@@ -571,6 +706,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718BA</tstamp>
@@ -586,6 +724,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718C6</tstamp>
@@ -601,6 +742,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718D2</tstamp>
@@ -616,6 +760,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718DE</tstamp>
@@ -631,6 +778,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD718EA</tstamp>
@@ -639,6 +789,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB04</tstamp>
@@ -654,6 +807,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB10</tstamp>
@@ -669,6 +825,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB1C</tstamp>
@@ -684,6 +843,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB28</tstamp>
@@ -699,6 +861,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB34</tstamp>
@@ -714,6 +879,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB40</tstamp>
@@ -729,6 +897,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB4C</tstamp>
@@ -744,6 +915,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB58</tstamp>
@@ -759,6 +933,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB64</tstamp>
@@ -774,6 +951,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB70</tstamp>
@@ -789,6 +969,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB7C</tstamp>
@@ -804,6 +987,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB88</tstamp>
@@ -819,6 +1005,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DB94</tstamp>
@@ -834,6 +1023,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FD8DBA0</tstamp>
@@ -849,6 +1041,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7DDE</tstamp>
@@ -864,6 +1059,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7DEA</tstamp>
@@ -879,6 +1077,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7DF6</tstamp>
@@ -894,6 +1095,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E02</tstamp>
@@ -909,6 +1113,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E0E</tstamp>
@@ -924,6 +1131,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E1A</tstamp>
@@ -939,6 +1149,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E26</tstamp>
@@ -954,6 +1167,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E32</tstamp>
@@ -969,6 +1185,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E3E</tstamp>
@@ -984,6 +1203,9 @@
       <value>1N4148WS</value>
       <footprint>Diodes_SMD:D_SOD-323</footprint>
       <datasheet>https://www.vishay.com/docs/85751/1n4148ws.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C57759</field>
+      </fields>
       <libsource lib="Diode" part="1N4148WS" description="75V 0.15A Fast switching Diode, SOD-323"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5FDB7E7A</tstamp>
@@ -992,6 +1214,9 @@
       <value>100nF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60452317</tstamp>
@@ -1000,6 +1225,9 @@
       <value>100nF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>604580E7</tstamp>
@@ -1008,6 +1236,9 @@
       <value>100nF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60460860</tstamp>
@@ -1016,6 +1247,9 @@
       <value>100nF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>60468E82</tstamp>
@@ -1024,6 +1258,9 @@
       <value>4.7uF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C19666</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6047143A</tstamp>
@@ -1032,6 +1269,9 @@
       <value>5.1K</value>
       <footprint>Resistors_SMD:R_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23186</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE7E2CD</tstamp>
@@ -1040,6 +1280,9 @@
       <value>5.1K</value>
       <footprint>Resistors_SMD:R_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23186</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE7DBB6</tstamp>
@@ -1146,6 +1389,9 @@
       <value>1uF</value>
       <footprint>Capacitors_SMD:C_0603</footprint>
       <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15849</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>5EE5A2F4</tstamp>
@@ -1325,13 +1571,13 @@
       <uri>/usr/share/kicad/library/Diode.lib</uri>
     </library>
     <library logical="atmega16u4-au_modified">
-      <uri>/home/jonas/code/project-zedekiel/pcb/library/custom/atmega16u4-au_modified.lib</uri>
+      <uri>/home/jonas/code/project-zedekiel/zedekiel/library/custom/atmega16u4-au_modified.lib</uri>
     </library>
     <library logical="hro-type-c_modified">
-      <uri>/home/jonas/code/project-zedekiel/pcb/library/custom/hro-type-c_modified.lib</uri>
+      <uri>/home/jonas/code/project-zedekiel/zedekiel/library/custom/hro-type-c_modified.lib</uri>
     </library>
     <library logical="keyboard_parts">
-      <uri>/home/jonas/code/project-zedekiel/pcb/library/kicad_lib_tmk/keyboard_parts.lib</uri>
+      <uri>/home/jonas/code/project-zedekiel/zedekiel/library/kicad_lib_tmk/keyboard_parts.lib</uri>
     </library>
   </libraries>
   <nets>
