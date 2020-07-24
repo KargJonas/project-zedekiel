@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:zedekiel-cache
 EELAYER 30 0
 EELAYER END
 $Descr User 14961 7480
@@ -89,7 +90,7 @@ $EndComp
 Wire Wire Line
 	4550 2650 4300 2650
 $Comp
-L keyboard_parts:SW_PUSH SW1
+L zedekiel-rescue:SW_PUSH-keyboard_parts SW1
 U 1 1 5EE97D58
 P 1350 3450
 F 0 "SW1" H 1350 3705 50  0000 C CNN
@@ -257,7 +258,7 @@ Wire Wire Line
 Wire Wire Line
 	2950 3150 2950 3400
 $Comp
-L keyboard_parts:XTAL X1
+L zedekiel-rescue:XTAL-keyboard_parts X1
 U 1 1 5EE18841
 P 2650 3400
 F 0 "X1" H 2650 3550 60  0000 C CNN
@@ -544,7 +545,7 @@ F 4 "C57759" H 12800 1700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K13
+L zedekiel-rescue:KEYSW-keyboard_parts K13
 U 1 1 5FCE01EA
 P 13100 1400
 F 0 "K13" H 13100 1400 60  0000 C CNN
@@ -567,7 +568,7 @@ F 4 "C57759" H 13250 1700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K14
+L zedekiel-rescue:KEYSW-keyboard_parts K14
 U 1 1 5FCE01F6
 P 13550 1400
 F 0 "K14" H 13550 1400 60  0000 C CNN
@@ -590,7 +591,7 @@ F 4 "C57759" H 13700 1700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K15
+L zedekiel-rescue:KEYSW-keyboard_parts K15
 U 1 1 5FD4E5DC
 P 7700 2150
 F 0 "K15" H 7700 2150 60  0000 C CNN
@@ -613,7 +614,7 @@ F 4 "C57759" H 7850 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K16
+L zedekiel-rescue:KEYSW-keyboard_parts K16
 U 1 1 5FD4E5E8
 P 8150 2150
 F 0 "K16" H 8150 2150 60  0000 C CNN
@@ -636,7 +637,7 @@ F 4 "C57759" H 8300 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K17
+L zedekiel-rescue:KEYSW-keyboard_parts K17
 U 1 1 5FD4E5F4
 P 8600 2150
 F 0 "K17" H 8600 2150 60  0000 C CNN
@@ -659,7 +660,7 @@ F 4 "C57759" H 8750 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K18
+L zedekiel-rescue:KEYSW-keyboard_parts K18
 U 1 1 5FD4E600
 P 9050 2150
 F 0 "K18" H 9050 2150 60  0000 C CNN
@@ -682,7 +683,7 @@ F 4 "C57759" H 9200 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K19
+L zedekiel-rescue:KEYSW-keyboard_parts K19
 U 1 1 5FD4E60C
 P 9500 2150
 F 0 "K19" H 9500 2150 60  0000 C CNN
@@ -705,7 +706,7 @@ F 4 "C57759" H 9650 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K20
+L zedekiel-rescue:KEYSW-keyboard_parts K20
 U 1 1 5FD4E618
 P 9950 2150
 F 0 "K20" H 9950 2150 60  0000 C CNN
@@ -728,7 +729,7 @@ F 4 "C57759" H 10100 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K21
+L zedekiel-rescue:KEYSW-keyboard_parts K21
 U 1 1 5FD4E624
 P 10400 2150
 F 0 "K21" H 10400 2150 60  0000 C CNN
@@ -751,7 +752,7 @@ F 4 "C57759" H 10550 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K22
+L zedekiel-rescue:KEYSW-keyboard_parts K22
 U 1 1 5FD4E630
 P 10850 2150
 F 0 "K22" H 10850 2150 60  0000 C CNN
@@ -774,7 +775,7 @@ F 4 "C57759" H 11000 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K23
+L zedekiel-rescue:KEYSW-keyboard_parts K23
 U 1 1 5FD4E63C
 P 11300 2150
 F 0 "K23" H 11300 2150 60  0000 C CNN
@@ -797,7 +798,7 @@ F 4 "C57759" H 11450 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K24
+L zedekiel-rescue:KEYSW-keyboard_parts K24
 U 1 1 5FD4E648
 P 11750 2150
 F 0 "K24" H 11750 2150 60  0000 C CNN
@@ -820,7 +821,7 @@ F 4 "C57759" H 11900 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K25
+L zedekiel-rescue:KEYSW-keyboard_parts K25
 U 1 1 5FD4E654
 P 12200 2150
 F 0 "K25" H 12200 2150 60  0000 C CNN
@@ -843,7 +844,7 @@ F 4 "C57759" H 12350 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K26
+L zedekiel-rescue:KEYSW-keyboard_parts K26
 U 1 1 5FD4E660
 P 12650 2150
 F 0 "K26" H 12650 2150 60  0000 C CNN
@@ -866,7 +867,7 @@ F 4 "C57759" H 12800 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K27
+L zedekiel-rescue:KEYSW-keyboard_parts K27
 U 1 1 5FD4E66C
 P 13100 2150
 F 0 "K27" H 13100 2150 60  0000 C CNN
@@ -889,7 +890,7 @@ F 4 "C57759" H 13250 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K28
+L zedekiel-rescue:KEYSW-keyboard_parts K28
 U 1 1 5FD4E678
 P 13550 2150
 F 0 "K28" H 13550 2150 60  0000 C CNN
@@ -912,7 +913,7 @@ F 4 "C57759" H 13700 2450 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K29
+L zedekiel-rescue:KEYSW-keyboard_parts K29
 U 1 1 5FD71848
 P 7700 2900
 F 0 "K29" H 7700 2900 60  0000 C CNN
@@ -935,7 +936,7 @@ F 4 "C57759" H 7850 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K30
+L zedekiel-rescue:KEYSW-keyboard_parts K30
 U 1 1 5FD71854
 P 8150 2900
 F 0 "K30" H 8150 2900 60  0000 C CNN
@@ -958,7 +959,7 @@ F 4 "C57759" H 8300 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K31
+L zedekiel-rescue:KEYSW-keyboard_parts K31
 U 1 1 5FD71860
 P 8600 2900
 F 0 "K31" H 8600 2900 60  0000 C CNN
@@ -981,7 +982,7 @@ F 4 "C57759" H 8750 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K32
+L zedekiel-rescue:KEYSW-keyboard_parts K32
 U 1 1 5FD7186C
 P 9050 2900
 F 0 "K32" H 9050 2900 60  0000 C CNN
@@ -1004,7 +1005,7 @@ F 4 "C57759" H 9200 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K33
+L zedekiel-rescue:KEYSW-keyboard_parts K33
 U 1 1 5FD71878
 P 9500 2900
 F 0 "K33" H 9500 2900 60  0000 C CNN
@@ -1027,7 +1028,7 @@ F 4 "C57759" H 9650 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K34
+L zedekiel-rescue:KEYSW-keyboard_parts K34
 U 1 1 5FD71884
 P 9950 2900
 F 0 "K34" H 9950 2900 60  0000 C CNN
@@ -1050,7 +1051,7 @@ F 4 "C57759" H 10100 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K35
+L zedekiel-rescue:KEYSW-keyboard_parts K35
 U 1 1 5FD71890
 P 10400 2900
 F 0 "K35" H 10400 2900 60  0000 C CNN
@@ -1073,7 +1074,7 @@ F 4 "C57759" H 10550 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K36
+L zedekiel-rescue:KEYSW-keyboard_parts K36
 U 1 1 5FD7189C
 P 10850 2900
 F 0 "K36" H 10850 2900 60  0000 C CNN
@@ -1096,7 +1097,7 @@ F 4 "C57759" H 11000 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K37
+L zedekiel-rescue:KEYSW-keyboard_parts K37
 U 1 1 5FD718A8
 P 11300 2900
 F 0 "K37" H 11300 2900 60  0000 C CNN
@@ -1119,7 +1120,7 @@ F 4 "C57759" H 11450 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K38
+L zedekiel-rescue:KEYSW-keyboard_parts K38
 U 1 1 5FD718B4
 P 11750 2900
 F 0 "K38" H 11750 2900 60  0000 C CNN
@@ -1142,7 +1143,7 @@ F 4 "C57759" H 11900 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K39
+L zedekiel-rescue:KEYSW-keyboard_parts K39
 U 1 1 5FD718C0
 P 12200 2900
 F 0 "K39" H 12200 2900 60  0000 C CNN
@@ -1165,7 +1166,7 @@ F 4 "C57759" H 12350 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K40
+L zedekiel-rescue:KEYSW-keyboard_parts K40
 U 1 1 5FD718CC
 P 12650 2900
 F 0 "K40" H 12650 2900 60  0000 C CNN
@@ -1188,7 +1189,7 @@ F 4 "C57759" H 12800 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K41
+L zedekiel-rescue:KEYSW-keyboard_parts K41
 U 1 1 5FD718D8
 P 13100 2900
 F 0 "K41" H 13100 2900 60  0000 C CNN
@@ -1211,7 +1212,7 @@ F 4 "C57759" H 13250 3200 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K42
+L zedekiel-rescue:KEYSW-keyboard_parts K42
 U 1 1 5FD718E4
 P 13550 2900
 F 0 "K42" H 13550 2900 60  0000 C CNN
@@ -1246,7 +1247,7 @@ F 4 "C57759" H 7850 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K44
+L zedekiel-rescue:KEYSW-keyboard_parts K44
 U 1 1 5FD8DB0A
 P 8150 3650
 F 0 "K44" H 8150 3650 60  0000 C CNN
@@ -1269,7 +1270,7 @@ F 4 "C57759" H 8300 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K45
+L zedekiel-rescue:KEYSW-keyboard_parts K45
 U 1 1 5FD8DB16
 P 8600 3650
 F 0 "K45" H 8600 3650 60  0000 C CNN
@@ -1292,7 +1293,7 @@ F 4 "C57759" H 8750 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K46
+L zedekiel-rescue:KEYSW-keyboard_parts K46
 U 1 1 5FD8DB22
 P 9050 3650
 F 0 "K46" H 9050 3650 60  0000 C CNN
@@ -1315,7 +1316,7 @@ F 4 "C57759" H 9200 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K47
+L zedekiel-rescue:KEYSW-keyboard_parts K47
 U 1 1 5FD8DB2E
 P 9500 3650
 F 0 "K47" H 9500 3650 60  0000 C CNN
@@ -1338,7 +1339,7 @@ F 4 "C57759" H 9650 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K48
+L zedekiel-rescue:KEYSW-keyboard_parts K48
 U 1 1 5FD8DB3A
 P 9950 3650
 F 0 "K48" H 9950 3650 60  0000 C CNN
@@ -1361,7 +1362,7 @@ F 4 "C57759" H 10100 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K49
+L zedekiel-rescue:KEYSW-keyboard_parts K49
 U 1 1 5FD8DB46
 P 10400 3650
 F 0 "K49" H 10400 3650 60  0000 C CNN
@@ -1384,7 +1385,7 @@ F 4 "C57759" H 10550 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K50
+L zedekiel-rescue:KEYSW-keyboard_parts K50
 U 1 1 5FD8DB52
 P 10850 3650
 F 0 "K50" H 10850 3650 60  0000 C CNN
@@ -1407,7 +1408,7 @@ F 4 "C57759" H 11000 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K51
+L zedekiel-rescue:KEYSW-keyboard_parts K51
 U 1 1 5FD8DB5E
 P 11300 3650
 F 0 "K51" H 11300 3650 60  0000 C CNN
@@ -1430,7 +1431,7 @@ F 4 "C57759" H 11450 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K52
+L zedekiel-rescue:KEYSW-keyboard_parts K52
 U 1 1 5FD8DB6A
 P 11750 3650
 F 0 "K52" H 11750 3650 60  0000 C CNN
@@ -1453,7 +1454,7 @@ F 4 "C57759" H 11900 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K53
+L zedekiel-rescue:KEYSW-keyboard_parts K53
 U 1 1 5FD8DB76
 P 12200 3650
 F 0 "K53" H 12200 3650 60  0000 C CNN
@@ -1476,7 +1477,7 @@ F 4 "C57759" H 12350 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K54
+L zedekiel-rescue:KEYSW-keyboard_parts K54
 U 1 1 5FD8DB82
 P 12650 3650
 F 0 "K54" H 12650 3650 60  0000 C CNN
@@ -1499,7 +1500,7 @@ F 4 "C57759" H 12800 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K55
+L zedekiel-rescue:KEYSW-keyboard_parts K55
 U 1 1 5FD8DB8E
 P 13100 3650
 F 0 "K55" H 13100 3650 60  0000 C CNN
@@ -1522,7 +1523,7 @@ F 4 "C57759" H 13250 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K56
+L zedekiel-rescue:KEYSW-keyboard_parts K56
 U 1 1 5FD8DB9A
 P 13550 3650
 F 0 "K56" H 13550 3650 60  0000 C CNN
@@ -1545,7 +1546,7 @@ F 4 "C57759" H 13700 3950 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K57
+L zedekiel-rescue:KEYSW-keyboard_parts K57
 U 1 1 5FDB7DD8
 P 8150 4400
 F 0 "K57" H 8150 4400 60  0000 C CNN
@@ -1568,7 +1569,7 @@ F 4 "C57759" H 8300 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K58
+L zedekiel-rescue:KEYSW-keyboard_parts K58
 U 1 1 5FDB7DE4
 P 9050 4400
 F 0 "K58" H 9050 4400 60  0000 C CNN
@@ -1591,7 +1592,7 @@ F 4 "C57759" H 9200 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K59
+L zedekiel-rescue:KEYSW-keyboard_parts K59
 U 1 1 5FDB7DF0
 P 9500 4400
 F 0 "K59" H 9500 4400 60  0000 C CNN
@@ -1614,7 +1615,7 @@ F 4 "C57759" H 9650 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K60
+L zedekiel-rescue:KEYSW-keyboard_parts K60
 U 1 1 5FDB7DFC
 P 10400 4400
 F 0 "K60" H 10400 4400 60  0000 C CNN
@@ -1637,7 +1638,7 @@ F 4 "C57759" H 10550 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K61
+L zedekiel-rescue:KEYSW-keyboard_parts K61
 U 1 1 5FDB7E08
 P 10850 4400
 F 0 "K61" H 10850 4400 60  0000 C CNN
@@ -1660,7 +1661,7 @@ F 4 "C57759" H 11000 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K62
+L zedekiel-rescue:KEYSW-keyboard_parts K62
 U 1 1 5FDB7E14
 P 11750 4400
 F 0 "K62" H 11750 4400 60  0000 C CNN
@@ -1683,7 +1684,7 @@ F 4 "C57759" H 11900 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K63
+L zedekiel-rescue:KEYSW-keyboard_parts K63
 U 1 1 5FDB7E20
 P 12200 4400
 F 0 "K63" H 12200 4400 60  0000 C CNN
@@ -1706,7 +1707,7 @@ F 4 "C57759" H 12350 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K64
+L zedekiel-rescue:KEYSW-keyboard_parts K64
 U 1 1 5FDB7E2C
 P 12650 4400
 F 0 "K64" H 12650 4400 60  0000 C CNN
@@ -1729,7 +1730,7 @@ F 4 "C57759" H 12800 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K65
+L zedekiel-rescue:KEYSW-keyboard_parts K65
 U 1 1 5FDB7E38
 P 13100 4400
 F 0 "K65" H 13100 4400 60  0000 C CNN
@@ -1752,7 +1753,7 @@ F 4 "C57759" H 13250 4700 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K66
+L zedekiel-rescue:KEYSW-keyboard_parts K66
 U 1 1 5FDB7E74
 P 13550 4400
 F 0 "K66" H 13550 4400 60  0000 C CNN
@@ -2074,7 +2075,7 @@ Wire Wire Line
 	1950 2350 2050 2350
 Connection ~ 2050 2350
 $Comp
-L keyboard_parts:KEYSW K12
+L zedekiel-rescue:KEYSW-keyboard_parts K12
 U 1 1 5FCC9FF6
 P 12650 1400
 F 0 "K12" H 12650 1400 60  0000 C CNN
@@ -2085,7 +2086,7 @@ F 3 "" H 12650 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K11
+L zedekiel-rescue:KEYSW-keyboard_parts K11
 U 1 1 5FCC9FEA
 P 12200 1400
 F 0 "K11" H 12200 1400 60  0000 C CNN
@@ -2096,7 +2097,7 @@ F 3 "" H 12200 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K10
+L zedekiel-rescue:KEYSW-keyboard_parts K10
 U 1 1 5FCC9FDE
 P 11750 1400
 F 0 "K10" H 11750 1400 60  0000 C CNN
@@ -2107,7 +2108,7 @@ F 3 "" H 11750 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K9
+L zedekiel-rescue:KEYSW-keyboard_parts K9
 U 1 1 5FCC9FD2
 P 11300 1400
 F 0 "K9" H 11300 1400 60  0000 C CNN
@@ -2118,7 +2119,7 @@ F 3 "" H 11300 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K8
+L zedekiel-rescue:KEYSW-keyboard_parts K8
 U 1 1 5FCB47BE
 P 10850 1400
 F 0 "K8" H 10850 1400 60  0000 C CNN
@@ -2129,7 +2130,7 @@ F 3 "" H 10850 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K7
+L zedekiel-rescue:KEYSW-keyboard_parts K7
 U 1 1 5FCB47B2
 P 10400 1400
 F 0 "K7" H 10400 1400 60  0000 C CNN
@@ -2140,7 +2141,7 @@ F 3 "" H 10400 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K6
+L zedekiel-rescue:KEYSW-keyboard_parts K6
 U 1 1 5FCB47A6
 P 9950 1400
 F 0 "K6" H 9950 1400 60  0000 C CNN
@@ -2151,7 +2152,7 @@ F 3 "" H 9950 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K5
+L zedekiel-rescue:KEYSW-keyboard_parts K5
 U 1 1 5FCB479A
 P 9500 1400
 F 0 "K5" H 9500 1400 60  0000 C CNN
@@ -2162,7 +2163,7 @@ F 3 "" H 9500 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K4
+L zedekiel-rescue:KEYSW-keyboard_parts K4
 U 1 1 5FC9CEA0
 P 9050 1400
 F 0 "K4" H 9050 1400 60  0000 C CNN
@@ -2173,7 +2174,7 @@ F 3 "" H 9050 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K3
+L zedekiel-rescue:KEYSW-keyboard_parts K3
 U 1 1 5FC8811E
 P 8600 1400
 F 0 "K3" H 8600 1400 60  0000 C CNN
@@ -2184,7 +2185,7 @@ F 3 "" H 8600 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2
+L zedekiel-rescue:KEYSW-keyboard_parts K2
 U 1 1 5FC740E6
 P 8150 1400
 F 0 "K2" H 8150 1400 60  0000 C CNN
@@ -2195,7 +2196,7 @@ F 3 "" H 8150 1400 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K1
+L zedekiel-rescue:KEYSW-keyboard_parts K1
 U 1 1 5FC48A31
 P 7700 1400
 F 0 "K1" H 7700 1400 60  0000 C CNN
@@ -2375,7 +2376,7 @@ Wire Wire Line
 Wire Wire Line
 	7400 3350 7700 3350
 $Comp
-L keyboard_parts:KEYSW K43
+L zedekiel-rescue:KEYSW-keyboard_parts K43
 U 1 1 5FD8DAFE
 P 7700 3650
 F 0 "K43" H 7700 3650 60  0000 C CNN
