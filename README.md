@@ -2,20 +2,30 @@
 A pain-free 66% keyboard.
 
 ![Render](renders/pcb-v0.2-14.png)
+![Assembly](misc/images/assembly.png)
+![Layout](misc/images/zedekiel-v0-2.png)
 
-## Zedekiel QMK Fork
-https://github.com/KargJonas/qmk_firmware
+## Flashing Guide
+You will need linux for this (yes, when the keyboard is flashed, it will work in windows).
+If you are using windows, you might want to take a look at [WSL](https://docs.microsoft.com/en-us/windows/wsl/).
+
+- Clone the Zedekiel QMK fork: `git clone git@github.com:KargJonas/qmk_firmware`
+- Open the directory: `cd qmk_firmware`
+- Compile and flash Zedekiel default layout: `sudo make zedekiel:default:dfu`
+
+If all goes well, your keyboard should now be ready to use.
 
 ## Tools used to make this
 - KiCad
 - LibreOffice
 - LibreCad
+- FreeCad
 - GIMP
 - QMK
-- [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/)
+- [www.keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/)
 - [builder.swillkb.com](http://builder.swillkb.com/)
 - [qmk.fm/converter](https://qmk.fm/converter/)
-- [engbedded.com/fusecalc](https://www.engbedded.com/fusecalc/)
+- [www.engbedded.com/fusecalc](https://www.engbedded.com/fusecalc/)
 
 ## Resources
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
