@@ -1,8 +1,8 @@
 # project-zedekiel
 A pain-free 66% keyboard.
 
-![Built top view](renders/top.png)
-![Built front view](renders/front.png)
+![Built top view](renders/top.jpg)
+![Built front view](renders/front.jpg)
 ![Render](renders/pcb-v0.2-14.png)
 ![Layout](misc/images/zedekiel-v0-2.png)
 
