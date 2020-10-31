@@ -1,8 +1,9 @@
 # project-zedekiel
 A pain-free 66% keyboard.
 
+![Built top view](renders/top.png)
+![Built front view](renders/front.png)
 ![Render](renders/pcb-v0.2-14.png)
-![Assembly](misc/images/assembly.png)
 ![Layout](misc/images/zedekiel-v0-2.png)
 
 ## Flashing Guide
@@ -51,6 +52,7 @@ If all goes well, your keyboard should now be ready to use.
 - FreeCad CSV import "broken" => export with {TAB} as delimiter.
 
 # More Pictures
+![Assembly](misc/images/assembly.png)
 ![Render](renders/pcb-v0.2-9.png)
 ![Render](renders/pcb-v0.2-13.png)
 ![Render](renders/pcb-v0.2-6.png)
